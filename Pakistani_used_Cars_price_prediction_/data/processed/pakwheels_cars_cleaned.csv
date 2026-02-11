@@ -1,0 +1,1249 @@
+body_type,city,color,engine_cc,fuel,make,mileage_km,model,price,transmission,year
+Sedan,Karachi,Black,2100.0,Petrol,Mercedes Benz,98000,E Class,9850000,Automatic,2011
+Crossover,Yazman mandi,White,1000.0,Petrol,Toyota,28000,Raize,6190000,Automatic,2020
+Hatchback,Lahore,Black,1500.0,Hybrid,Toyota,98213,Aqua,3290000,Automatic,2013
+Sedan,Lahore,Grey,2000.0,Petrol,Hyundai,75987,Elantra,7500000,Automatic,2023
+Hatchback,Karachi,Burgundy,1500.0,Hybrid,Toyota,89000,Aqua,5100000,Automatic,2020
+Compact sedan,Lahore,Silver,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+SUV,Lahore,Black,1500.0,PHEV,Jaecoo,1,J7,11100000,Automatic,2025
+Crossover,Lahore,Black,1200.0,Petrol,Peugeot,112691,2008,5150000,Automatic,2022
+Sedan,Lahore,White,1300.0,Petrol,Toyota,23134,Yaris Sedan,4900000,Automatic,2023
+Hatchback,Lahore,Grey,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Sedan,Multan,White,1800.0,Petrol,Honda,81000,Civic,4570000,Automatic,2016
+Crossover,Lahore,Black,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Arifwala,Silver,1000.0,Petrol,Suzuki,90000,Wagon R,2300000,Manual,2017
+Hatchback,Multan,White,660.0,Petrol,Suzuki,33500,Alto,2480000,Manual,2022
+Sedan,Lahore,Silver,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Bhakkar,Grey,1000.0,Petrol,Suzuki,54000,Cultus,1180000,Manual,2012
+SUV,Gujar Khan,Silver,2800.0,Diesel,Mitsubishi,160000,Pajero,3650000,Automatic,1994
+Sedan,Pattoki,Silver,1300.0,Petrol,Toyota,42500,Yaris Sedan,4600000,Automatic,2023
+Sedan,Karachi,Bronze,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Multan,Grey,1300.0,Petrol,Honda,695000,City,780000,Manual,1998
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Karachi,Strong Blue,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Lahore,Blue,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Karachi,Black,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Hatchback,Karachi,Grey,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Mini Vehicles,Peshawar,Beige,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Double Cabin,Peshawar,Black,3000.0,Diesel,Toyota,180000,Hilux,6700000,Manual,2014
+Unknown,Lahore,Maroon,660.0,Petrol,Daihatsu,74000,Tanto,2845000,Automatic,2022
+Crossover,Lahore,Super Black,1300.0,Petrol,Nissan,44000,Kicks,7200000,Automatic,2020
+Mini Van,Multan,White,1000.0,Petrol,Changan,24000,Karvaan,3000000,Manual,2023
+Hatchback,Islamabad,Purple ,660.0,Petrol,Nissan,4300,Dayz,3625000,Automatic,2022
+Crossover,Karachi,White,1000.0,Petrol,Toyota,52000,Raize,6500000,Automatic,2021
+Sedan,Karachi,Black,2500.0,Hybrid,Toyota,93000,Crown,11500000,Automatic,2013
+Unknown,Lahore,White,660.0,Petrol,Suzuki,85000,Every,2750000,Manual,2021
+Hatchback,Bhalwal,White,1000.0,Petrol,Suzuki,100000,Cultus,990000,Manual,2007
+Sedan,Lahore,Grey,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Crossover,Gujranwala,Red,1500.0,Petrol,MG,49000,HS,6800000,Automatic,2023
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Rahim Yar Khan,White,796.0,Petrol,Suzuki,185000,Mehran,1030000,Manual,2014
+Unknown,Jhelum,White,1500.0,Petrol,Suzuki,265000,APV,2855000,Manual,2012
+Unknown,Rawalpindi,Turquoise,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Hatchback,Lahore,Silver,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Lahore,Blue,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Karachi,Beige,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Hatchback,Islamabad,Black,660.0,Petrol,Suzuki,101000,Wagon R,2550000,Automatic,2016
+Hatchback,Gujrat,White,800.0,Petrol,Suzuki,55000,Mehran,620000,Manual,2006
+Hatchback,Lahore,White,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Hatchback,Islamabad,Grey,796.0,Petrol,Suzuki,1,Mehran,1350000,Manual,2015
+SUV,Karachi,Bronze,3500.0,Petrol,KIA,56000,Sorento,7300000,Automatic,2021
+Crossover,Lahore,Pearl Black,1300.0,Petrol,Nissan,44000,Kicks,7200000,Automatic,2020
+Sedan,Karachi,Beige,1300.0,Petrol,Suzuki,200000,Baleno,870000,Manual,2005
+Hatchback,Karachi,White,1000.0,Petrol,Toyota,15000,Yaris Hatchback,4775000,Automatic,2022
+Hatchback,Multan,White,1000.0,Petrol,Toyota,126911,Vitz,2600000,Automatic,2011
+Hatchback,Karachi,Gold,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Unknown,Islamabad,White,1800.0,Petrol,Mercedes Benz,222850,C Class,4550000,Automatic,2007
+SUV,Karachi,White,2800.0,Diesel,Toyota,27231,Fortuner,16700000,Automatic,2022
+Compact SUV,Karachi,White,1500.0,Petrol,Changan,27191,Oshan X7,7800000,Automatic,2022
+Hatchback,Islamabad,Purple,660.0,Petrol,Suzuki,182913,Cervo,1725000,Automatic,2007
+Crossover,Sialkot,White,1500.0,Petrol,Honda,17400,HR-V,7475000,Automatic,2025
+Unknown,Taxila,White,2000.0,Petrol,Jeep,9357,M 151,1650000,Manual,2007
+SUV,Karachi,Beige ,1500.0,Petrol,Suzuki,32143,Jimny,4600000,Manual,2020
+Compact SUV,Islamabad,Grey,1500.0,Petrol,Haval,3700,Jolion,8500000,Automatic,2025
+Hatchback,Peshawar,White,660.0,Petrol,Daihatsu,52000,Mira,2800000,Automatic,2019
+Hatchback,Pak pattan sharif,White,796.0,Petrol,Suzuki,50000,Mehran,1050000,Manual,2013
+Unknown,Mansehra,Silver,800.0,Petrol,Suzuki,595000,Mehran,850000,Manual,2008
+Hatchback,Lahore,Bronze,1000.0,Petrol,Toyota,70000,Yaris Hatchback,4535000,Automatic,2020
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Gujranwala,Grey,1000.0,Petrol,Suzuki,80000,Wagon R,2475000,Manual,2019
+Hatchback,Rawalpindi,Grey,660.0,Petrol,Suzuki,115000,Wagon R,2375000,Automatic,2013
+Unknown,Lahore,White,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Hatchback,Karachi,Silver,1000.0,Petrol,Hyundai,150000,Santro,950000,Manual,2006
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Karachi,White,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Unknown,Nowshera cantt,White,1300.0,Petrol,Toyota,203000,Vitz,1700000,Automatic,2000
+SUV,Karachi,Black,2000.0,Petrol,Hyundai,15000,Tucson,8200000,Automatic,2023
+SUV,Karachi,Black,1500.0,Petrol,Suzuki,32143,Jimny,4600000,Manual,2020
+Hatchback,Lahore,Silver,660.0,Petrol,Daihatsu,82000,Mira,2150000,Automatic,2012
+SUV,Lahore,White,2000.0,Hybrid,Lexus,28000,UX ,15900000,Automatic,2020
+Sedan,Karachi,White,1500.0,Petrol,Changan,37000,Alsvin,3475000,Automatic,2021
+SUV,Sheikhupura,White,2000.0,Petrol,Hyundai,62300,Tucson,7650000,Automatic,2022
+Hatchback,Lahore,Phoenix Red Pearl,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Crossover,Islamabad,White,1200.0,Petrol,Peugeot,64000,2008,5400000,Automatic,2022
+Crossover,Lahore,Black,1000.0,Petrol,Daihatsu,29000,Rocky,5825000,Automatic,2020
+Hatchback,Karachi,Red,660.0,Petrol,Nissan,74221,Dayz,2360000,Automatic,2014
+Crossover,Lahore,Black,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Peshawar,Black,1300.0,Petrol,Toyota,171000,Corolla,2870000,Manual,2007
+Sedan,Islamabad,Blue,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Hatchback,Lahore,Blue,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Unknown,Abbottabad,Grey,1000.0,Petrol,Toyota,54200,Vitz,3130000,Automatic,2014
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Islamabad,Grey,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Rawalpindi,Silver,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+SUV,Karachi,White,4700.0,Petrol,Toyota,268350,Land Cruiser,9000000,Automatic,2003
+Sedan,Karachi,White,1000.0,Petrol,Toyota,55000,Platz,1400000,Automatic,2001
+Sedan,Gujranwala,Black,2000.0,Diesel,Toyota,300000,Corolla,3200000,Manual,2008
+Hatchback,Karachi,GOLD,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Sedan,Charsadda,Silver,1800.0,Petrol,Toyota,93000,Corolla,2820000,Automatic,2009
+Sedan,Hafizabad,White,1300.0,Petrol,Toyota,180000,Corolla,3500000,Manual,2016
+Sedan,Faisalabad,White,1300.0,Hybrid,Honda,83000,Civic,2600080,Automatic,2007
+Crossover,Faisalabad,White,1500.0,Petrol,Honda,83000,HR-V,6500000,Automatic,2023
+Pick Up,Karachi,White,3000.0,Petrol,Ford,16800,Ranger,31800000,Automatic,2022
+Hatchback,Islamabad,Green,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Lahore,Black,5500.0,Petrol,Mercedes Benz,95000,S Class,11000000,Automatic,2006
+Crossover,Islamabad,Cool Grey,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+SUV,Karachi,White,4700.0,Petrol,Toyota,268350,Land Cruiser,9000000,Automatic,2003
+Crossover,Lahore,White,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Crossover,Lahore,White,1200.0,Petrol,Peugeot,112691,2008,5150000,Automatic,2022
+Sedan,Karachi,Gold,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Islamabad,Red,1600.0,Petrol,BMW,190000,3 Series,7000000,Automatic,2013
+Compact SUV,Islamabad,Black,1500.0,Petrol,Haval,3700,Jolion,8500000,Automatic,2025
+Crossover,Gujranwala,Red,1000.0,Petrol,Toyota,30000,Raize,5300000,Automatic,2020
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Hatchback,Peshawar,White,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Hatchback,Peshawar,White,1000.0,Petrol,Suzuki,300000,Cultus,1030000,Manual,2004
+Hatchback,Karachi,Red,660.0,Petrol,Nissan,124000,Roox,2100000,Automatic,2014
+Sedan,Taunsa sharif,Brown,1300.0,Petrol,Toyota,98000,Corolla,2950000,Manual,2013
+Unknown,Lahore,Silver,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Crossover,Islamabad,White,1500.0,Petrol,MG,47000,HS,6370000,Automatic,2021
+Hatchback,Karachi,White,1000.0,Petrol,KIA,108000,Picanto,2700000,Automatic,2020
+Mini Van,Sialkot,White,800.0,Petrol,Suzuki,28000,Bolan,2015000,Manual,2024
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Unknown,Karachi,Beige,660.0,Petrol,Daihatsu,28000,Taft,4000000,Automatic,2021
+Sedan,Peshawar,Black,1300.0,Petrol,Toyota,171000,Corolla,2870000,Manual,2007
+Sedan,D.G.Khan,White,1600.0,Petrol,Toyota,79000,Corolla,4375000,Automatic,2017
+Station Wagon,Karachi,Black,1500.0,Hybrid,Toyota,111000,Corolla Fielder,4800000,Automatic,2015
+Station Wagon,Islamabad,White,1500.0,Petrol,Toyota,152560,Corolla Fielder,3950000,Automatic,2006
+Hatchback,Chiniot,White,1000.0,Petrol,Suzuki,113000,Cultus,1800000,Manual,2017
+Unknown,Sargodha,Silver,3500.0,Diesel,Toyota,250000,Land Cruiser,3500000,Manual,1996
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Karachi,Grey,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+SUV,Karachi,Black,3000.0,Petrol,Range Rover,130000,Vogue,8500000,Manual,1972
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Crossover,Lahore,Black,1490.0,Petrol,MG,29850,HS,6440000,Automatic,2021
+Hatchback,Wah cantt,Gold,660.0,Petrol,Suzuki,447163,Alto,1280000,Automatic,1998
+Sedan,Multan,Grey,1300.0,Petrol,Toyota,343000,Corolla,2950000,Manual,2012
+SUV,Lahore,Black,1500.0,Hybrid,Haval,40000,H6,10200000,Automatic,2023
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Hatchback,Islamabad,Silver,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Unknown,Rawalpindi,White,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Unknown,Islamabad,White,1000.0,Petrol,Toyota,100000,Yaris Hatchback,4675000,Automatic,2022
+Sedan,Lahore,White,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+MPV,Rawalpindi,Black,1500.0,Petrol,Honda,145223,BR-V,4025000,Automatic,2018
+Sedan,Mian Wali,Black,1300.0,Petrol,Toyota,89000,Corolla,4325000,Manual,2017
+Hatchback,Sialkot,White,1000.0,Petrol,KIA,25000,Picanto,3550000,Automatic,2023
+Hatchback,Karachi,White,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Unknown,Swabi,White,1300.0,Petrol,Toyota,150000,Corolla,3400000,Manual,2015
+Hatchback,Sheikhupura,White,660.0,Petrol,Daihatsu,32000,Move,3450000,Automatic,2020
+Sedan,Mardan,Silver,1800.0,Petrol,Honda,140000,Civic,3000000,Automatic,2010
+Hatchback,Islamabad,Turquoise,1000.0,Petrol,Toyota,150000,Vitz,2025000,Automatic,2006
+Sedan,Abbottabad,White,1500.0,Petrol,Toyota,695000,Corona,395000,Manual,1994
+SUV,Lahore,White,1500.0,PHEV,Jaecoo,1,J7,11100000,Automatic,2025
+Unknown,Islamabad,Blue,2000.0,Petrol,Subaru,200000,Impreza Xv,3600000,Automatic,2005
+Hatchback,Islamabad,Silver,660.0,Hybrid,Mazda,22000,Flair,4200000,Automatic,2022
+SUV,Karachi,White,2800.0,Diesel,Toyota,27231,Fortuner,16700000,Automatic,2022
+Sedan,Islamabad,Black,1400.0,Petrol,Audi,82000,A5,13600000,Automatic,2018
+Sedan,Multan,White,1800.0,Petrol,Honda,81000,Civic,4570000,Automatic,2016
+Micro Van,Islamabad,Silver,660.0,Petrol,Suzuki,110000,Every,2190000,Automatic,2016
+Sedan,Islamabad,Black,4400.0,Petrol,BMW,100000,7 Series,6100000,Automatic,2006
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,Black,1300.0,Petrol,Toyota,75000,Yaris Sedan,3930000,Automatic,2020
+Pick Up,Lahore,Black,2800.0,Petrol,Toyota,142000,Hilux,9700000,Manual,2018
+Sedan,Islamabad,Grey,4400.0,Petrol,BMW,100000,7 Series,6100000,Automatic,2006
+Hatchback,Wah cantt,White,1000.0,Petrol,Toyota,130000,Vitz,2975000,Automatic,2014
+Hatchback,Karachi,Black,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Hatchback,Faisalabad,Red,1300.0,Petrol,FAW,170000,V2,1800000,Manual,2017
+Station Wagon,Lahore,Silver,1300.0,Petrol,Toyota,326575,Probox,2450000,Automatic,2007
+Hatchback,Karachi,Black,660.0,Petrol,Mitsubishi,7605,EK X,4350000,Automatic,2022
+Hatchback,Peshawar,White,1300.0,Petrol,Toyota,150000,Vitz,1790000,Automatic,1999
+Hatchback,Mirpur A.K.,Gold,1000.0,Petrol,Suzuki,150000,Alto,790000,Manual,2007
+Hatchback,Multan,Grey,800.0,Petrol,Daihatsu,1,Cuore,900000,Manual,2009
+Mini Van,Lahore,White,1000.0,Petrol,Changan,25000,Karvaan,2200000,Manual,2022
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Unknown,Lahore,Silver,660.0,Petrol,Daihatsu,77000,Copen,2425000,Manual,2006
+Sedan,Islamabad,Gold,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Karachi,Silver,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Peshawar,Gold,1300.0,Petrol,Toyota,171000,Corolla,2870000,Manual,2007
+Sedan,Wah cantt,Black,1800.0,Petrol,Honda,148500,Civic,2195000,Automatic,2008
+Compact SUV,Karachi,Panthera Metal,3500.0,Petrol,KIA,56000,Sorento,7300000,Automatic,2021
+Hatchback,Karachi,Maroon,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Unknown,Daska,Green,800.0,Petrol,Suzuki,92000,Bolan,1400000,Manual,2017
+Hatchback,Lahore,Blue,660.0,Hybrid,Suzuki,40000,Hustler,3650000,Automatic,2020
+Sedan,Peshawar,Black,3200.0,Petrol,Mercedes Benz,110000,E Class,4500000,Automatic,2002
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+SUV,Karachi,Black,2800.0,Diesel,Toyota,27231,Fortuner,16700000,Automatic,2022
+Hatchback,Lahore,White,1500.0,Hybrid,Honda,122000,Fit,3675000,Automatic,2015
+Hatchback,Faisalabad,White,1300.0,Petrol,Toyota,162000,Vitz,3000000,Automatic,2013
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Hatchback,Multan,Burgundy,1200.0,Hybrid,Nissan,56000,Note,6300000,Automatic,2021
+SUV,Lahore,Black,2400.0,Petrol,Honda,133787,CR-V,4500000,Automatic,2015
+Sedan,Islamabad,Silver,1800.0,Hybrid,Toyota,79000,Prius,5200000,Automatic,2010
+Sedan,Lahore,Red,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Abbottabad,Maroon,800.0,Petrol,Suzuki,135000,Mehran,459000,Manual,1995
+Sedan,Lahore,Gun Metallic V2,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Sahiwal,White,1300.0,Petrol,Honda,97000,City,3670000,Automatic,2018
+Double Cabin,Lahore,Black,1500.0,Hybrid,BYD,25,Shark 6,20750000,Automatic,2025
+Hatchback,Lahore,Grey,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Compact SUV,Karachi,White,1500.0,Petrol,Changan,27191,Oshan X7,7800000,Automatic,2022
+Hatchback,Multan,Silver,1000.0,Petrol,Suzuki,290000,Cultus,960000,Manual,2008
+Station Wagon,Lahore,White,1800.0,Hybrid,Toyota,60000,Corolla Touring,9300000,Automatic,2021
+Sedan,Rahim Yar Khan,White,1500.0,Petrol,Honda,72600,City,3175000,Automatic,2015
+Hatchback,Islamabad,White,1300.0,Petrol,Suzuki,80000,Swift,2665000,Manual,2018
+Sedan,Okara,Silver,1200.0,Petrol,Honda,40112,City,4165000,Manual,2021
+Sedan,Lahore,White,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Unknown,Faisalabad,Turquoise,1000.0,Petrol,Suzuki,120000,Wagon R,2270000,Manual,2018
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Double Cabin,Lahore,Black,2500.0,Diesel,Toyota,150000,Hilux,3500000,Manual,1998
+SUV,Karachi,White,3400.0,Petrol,Toyota,202630,Surf,5000000,Automatic,1996
+Hatchback,Lahore,Black,660.0,Hybrid,Nissan,73900,Dayz,4190000,Automatic,2022
+SUV,Islamabad,Black,3500.0,Petrol,Lexus,15000,LX Series,102000000,Automatic,2022
+Compact SUV,Islamabad,White,1500.0,Petrol,Changan,60000,Oshan X7,7450000,Automatic,2022
+Sedan,Rawalpindi,Silver,1800.0,Hybrid,Toyota,220000,Prius,5100000,Automatic,2011
+Sedan,Lahore,Black,1300.0,Petrol,Toyota,23134,Yaris Sedan,4900000,Automatic,2023
+Hatchback,Peshawar,Yellow,660.0,Hybrid,Suzuki,45000,Hustler,3450000,Automatic,2021
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Pak pattan sharif,White,1000.0,Petrol,Suzuki,52000,Wagon R,2750000,Manual,2021
+Sedan,Gujranwala,Beige,1300.0,Petrol,Suzuki,90000,Baleno,1400000,Manual,2004
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Unknown,Lahore,Silver,1500.0,Hybrid,Toyota,98213,Aqua,3290000,Automatic,2013
+Hatchback,Islamabad,Silver,800.0,Petrol,Daihatsu,160000,Cuore,1375000,Manual,2006
+Sedan,Faisalabad,White,1800.0,Petrol,Toyota,78000,Corolla,6600000,Automatic,2022
+MPV,Islamabad,Silver,1500.0,Petrol,Honda,33872,BR-V,5900000,Automatic,2021
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Karachi,Green,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Unknown,Okara,Grey,1000.0,Petrol,Suzuki,39000,Cultus,1150000,Manual,2008
+Sedan,Karachi,Silver,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Unknown,Islamabad,Silver,2200.0,Diesel,Mercedes Benz,125000,Vito,4000000,Manual,2004
+Hatchback,Lahore,Grey,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Lahore,BLACK,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Hatchback,Rawalpindi,Grey,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Hatchback,Lahore,Silver,1000.0,Petrol,Toyota,70000,Yaris Hatchback,4535000,Automatic,2020
+Crossover,Lahore,Black,1490.0,Petrol,MG,29850,HS,6440000,Automatic,2021
+Sedan,Faisalabad,Red,1300.0,Hybrid,Honda,83000,Civic,2600080,Automatic,2007
+Hatchback,Peshawar,Silver,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Hatchback,Karachi,White,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Sedan,Gujranwala,Black,1800.0,Petrol,Honda,92000,Civic,4200000,Manual,2015
+Hatchback,Karachi,White,1300.0,Petrol,Suzuki,54061,Swift,2450000,Manual,2019
+Hatchback,Islamabad,Black,1000.0,Petrol,Toyota,70379,Passo,3650000,Automatic,2018
+Hatchback,Karachi,White,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Unknown,Shikar pur,White,1000.0,Petrol,Suzuki,100000,Cultus,2900000,Manual,2018
+Hatchback,Pak pattan sharif,Blue,800.0,Petrol,Daihatsu,100000,Cuore,750000,Manual,2006
+Sedan,Peshawar,White,1800.0,Petrol,Toyota,97891,Corolla Axio,3600000,Automatic,2007
+Crossover,Lahore,White,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Abbottabad,grey,1300.0,Petrol,Suzuki,250000,Baleno,1100000,Manual,2003
+Micro Van,Karachi,Blue,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Sedan,Faisalabad,Black,1300.0,Hybrid,Honda,83000,Civic,2600080,Automatic,2007
+Van,Peshawar,White,800.0,Petrol,Suzuki,5200,Bolan,2300000,Manual,2024
+Hatchback,Wah cantt,white,1000.0,Petrol,Suzuki,928364,Cultus,1180000,Manual,2007
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Hyderabad,Silver,1300.0,Petrol,Honda,150000,City,1780000,Manual,2007
+Unknown,Kamoke,White,1300.0,Petrol,Honda,400000,City,1700000,Manual,2005
+Pick Up,Abbottabad,White,800.0,Petrol,Suzuki,200000,Ravi,900000,Manual,2014
+Hatchback,Karachi,Magneta,660.0,Petrol,Honda,78581,N Wgn,2800000,Automatic,2016
+Crossover,Lahore,White,1200.0,Petrol,Peugeot,112691,2008,5150000,Automatic,2022
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Crossover,Karachi,White,1000.0,Petrol,Toyota,52000,Raize,6500000,Automatic,2021
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Compact sedan,Lahore,white ,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Crossover,Karachi,White,1500.0,Hybrid,Honda,62000,Vezel,6800000,Automatic,2018
+SUV,Haripur,Black,1500.0,Hybrid,Haval,41000,H6,10800000,Automatic,2024
+Hatchback,Karachi,Grey,1300.0,Petrol,Suzuki,54061,Swift,2450000,Manual,2019
+Sedan,Rawalpindi,Grey,1800.0,Petrol,Honda,43000,Civic,7200000,Automatic,2022
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Lahore,Silver,658.0,Petrol,Honda,13000,N Box,3750000,Automatic,2022
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Hatchback,Karachi,White,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Sedan,Lahore,White,1500.0,Petrol,Toyota,78000,Yaris Sedan,4575000,Automatic,2021
+Hatchback,Karachi,White,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Hatchback,Karachi,Black,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,Silver,1300.0,Petrol,Suzuki,119000,Liana,1199000,Manual,2007
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Station Wagon,Karachi,Black,660.0,Petrol,Daihatsu,84500,Atrai Wagon,1900000,Automatic,2014
+Hatchback,Murree,White,800.0,Petrol,Suzuki,200000,Mehran,490000,Manual,1999
+Crossover,Islamabad,White,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+Hatchback,Bhalwal,Grey,796.0,Petrol,Suzuki,20000,Mehran,1350000,Manual,2017
+Hatchback,Karachi,Black,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Sedan,Lahore,Silver,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Lahore,Silver,1600.0,Petrol,Mitsubishi,124000,Lancer,1700000,Manual,2007
+Hatchback,Lahore,Black,1198.0,Hybrid,Nissan,25997,Note,7800000,Automatic,2023
+Hatchback,Karachi,Black,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Crossover,Karachi,White,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Micro Van,Karachi,White,660.0,Petrol,Nissan,101000,Clipper,2625000,Automatic,2022
+Crossover,Karachi,White,1000.0,Petrol,Toyota,52000,Raize,6500000,Automatic,2021
+Mini Vehicles,Rawalpindi,Brown,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+MPV,Lahore,Maroon,3500.0,Petrol,KIA,49000,Carnival,7390000,Automatic,2019
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Rawalpindi,Black,1800.0,Petrol,Honda,96000,Civic,5395000,Automatic,2018
+Hatchback,Karachi,Silver,1000.0,Petrol,Toyota,15000,Yaris Hatchback,4775000,Automatic,2022
+Hatchback,Gujranwala,Grey,800.0,Petrol,Suzuki,200000,Mehran,610000,Manual,2009
+Mini Van,Jauharabad,White,660.0,Petrol,Suzuki,168000,Wagon R,1780000,Automatic,2008
+Van,Lahore,White,800.0,Petrol,Suzuki,310000,Bolan,980000,Manual,2007
+SUV,Islamabad,Black,1500.0,Hybrid,Haval,30000,H6,10800000,Automatic,2024
+Sedan,Wah cantt,White,1300.0,Petrol,Honda,170000,City,1870000,Automatic,2005
+Sedan,Haripur,White,1500.0,Petrol,Honda,40000,City,3900000,Manual,2015
+Hatchback,Karachi,White,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Sedan,Chiniot,White,1500.0,Petrol,Honda,55000,City,4200000,Automatic,2018
+Hatchback,Wah cantt,Silver,800.0,Petrol,Suzuki,24000,Mehran,860000,Manual,2007
+Hatchback,Lahore,Grey,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Rawalpindi,Pink,1000.0,Petrol,Toyota,12500,Passo,4270000,Automatic,2022
+Hatchback,Gujranwala,Turquoise,1000.0,Petrol,Toyota,121000,Vitz,4000000,Automatic,2018
+Sedan,Peshawar,White,2400.0,Petrol,Honda,160000,Accord,3000000,Automatic,2003
+Micro Van,Islamabad,White,660.0,Petrol,Suzuki,180000,Every,1900000,Automatic,2010
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Rawalpindi,Green,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Sedan,Toba Tek Singh,White,1300.0,Petrol,Toyota,91000,Corolla,400000,Manual,2017
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Compact sedan,Islamabad,Black,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+SUV,Kamoke,White,2000.0,Petrol,Hyundai,9000,Tucson,9500000,Automatic,2025
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+SUV,Karachi,Black,2700.0,Petrol,Toyota,46000,Prado,26500000,Automatic,2020
+Sedan,Lahore,Silver,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Karachi,Silver,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+SUV,Karachi,Black,1500.0,Petrol,Proton,60000,X70,5200000,Automatic,2021
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Mini Van,Lahore,Black,660.0,Petrol,Daihatsu,136481,Hijet,1550000,Automatic,2014
+Crossover,Karachi,Black,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Crossover,Islamabad,Black,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+Hatchback,Karachi,Turquoise,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Crossover,Karachi,Purple ,1500.0,Hybrid,Honda,115000,Vezel,3975000,Automatic,2014
+Truck,Karachi,White,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+MPV,Karachi,White,1500.0,Petrol,Honda,99700,BR-V,3800000,Automatic,2017
+Hatchback,Faisalabad,White,1000.0,Petrol,Suzuki,110000,Cultus,1580000,Manual,2015
+Micro Van,Daska,Silver,660.0,Petrol,Suzuki,114000,Every,2100000,Automatic,2013
+Sedan,Lahore,Silver,1800.0,Petrol,Honda,260000,Civic,2450000,Automatic,2008
+Sedan,Mardan,White,1500.0,Petrol,Toyota,300000,Corolla,3700000,Automatic,2006
+Sedan,Lahore,Grey,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Unknown,Lahore,dark purple,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Rawalpindi,White,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Hatchback,Islamabad,Silver,1000.0,Petrol,Suzuki,100000,Cultus,1175000,Manual,2008
+Hatchback,Karachi,Maroon,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Double Cabin,Karachi,Grey,3000.0,Diesel,Isuzu,8000,D-Max,12400000,Automatic,2025
+Crossover,Karachi,Black,1800.0,Hybrid,Toyota,63000,C-HR,7800000,Automatic,2019
+MPV,Islamabad,Bronze,1500.0,Petrol,Honda,33872,BR-V,5900000,Automatic,2021
+Hatchback,Lahore,White,1200.0,Petrol,Suzuki,18100,Swift,4000000,Manual,2023
+Hatchback,Gujranwala,Beige,660.0,Petrol,Nissan,22800,Roox,3500000,Automatic,2022
+Station Wagon,Karachi,White,1300.0,Petrol,Nissan,122508,AD Van,1450000,Automatic,2006
+Double Cabin,Karachi,Grey,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Sedan,Faisalabad,White,1800.0,Petrol,Toyota,78000,Corolla,6600000,Automatic,2022
+Hatchback,Islamabad,Black,1500.0,Hybrid,Toyota,72317,Aqua,5295000,Automatic,2018
+Compact SUV,Karachi,Silver,1500.0,Petrol,Changan,27191,Oshan X7,7800000,Automatic,2022
+Sedan,Lahore,Silver,1500.0,Hybrid,Toyota,140000,Prius,3150000,Automatic,2008
+Crossover,Faisalabad,Black,1500.0,Petrol,DFSK,78000,Glory 580,4550000,Automatic,2021
+Sedan,Lahore,White,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Islamabad,Silver,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,101000,Wagon R,2550000,Automatic,2016
+Crossover,Lahore,Blue,1300.0,Petrol,Nissan,44000,Kicks,7200000,Automatic,2020
+Unknown,Karachi,White,660.0,Petrol,Daihatsu,105000,Hijet,2470000,Automatic,2020
+Sedan,Islamabad,Silver,1500.0,Petrol,Daewoo,196000,Racer,650000,Manual,1993
+Hatchback,Karachi,sky blue,1000.0,Petrol,Suzuki,85000,Cultus,2385000,Manual,2018
+SUV,Faisalabad,White,1500.0,Hybrid,Haval,36942,H6,10200000,Automatic,2023
+Hatchback,Peshawar,Red,800.0,Petrol,Suzuki,100000,Mehran,550000,Manual,2003
+Hatchback,Karachi,Brown,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+SUV,Gujranwala,White,1500.0,Hybrid,Haval,1200,H6,12300000,Automatic,2025
+Hatchback,Karachi,Grey,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Mini Van,Okara,White,800.0,Petrol,Suzuki,75236,Bolan,797000,Manual,2015
+Unknown,Taxila,Black,1000.0,Petrol,Toyota,150000,Vitz,2100000,Automatic,2008
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Peshawar,Silver,658.0,Petrol,Honda,31000,N Box,3350000,Automatic,2020
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Crossover,Islamabad,Burgundy,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+Mini Van,Lahore,White,660.0,Petrol,Daihatsu,136481,Hijet,1550000,Automatic,2014
+SUV,Karachi,Black,2000.0,Petrol,Hyundai,15000,Tucson,8200000,Automatic,2023
+Hatchback,Ahmed Pur East,Blue,1200.0,Petrol,Suzuki,23000,Swift,4500000,Automatic,2022
+Hatchback,Faisalabad,Grey,1000.0,Petrol,Suzuki,110000,Cultus,1580000,Manual,2015
+Hatchback,Peshawar,Silver,800.0,Petrol,Chevrolet,50000,Exclusive,950000,Automatic,2003
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Hatchback,Islamabad,Silver,1500.0,Hybrid,Toyota,72317,Aqua,5295000,Automatic,2018
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Lahore,Red,660.0,Petrol,Honda,85000,N One,2825000,Automatic,2016
+Sedan,Taxila,White,1600.0,Petrol,Suzuki,80000,Liana,1280000,Automatic,2006
+Hatchback,Nowshera cantt,White,660.0,Petrol,Suzuki,100000,Alto,3050000,Automatic,2019
+Sedan,Rawalpindi,Silver,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Crossover,Faisalabad,White,2000.0,Petrol,KIA,70000,Sportage,6600000,Automatic,2020
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Hatchback,Karachi,Silver,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Van,Lahore,White,1200.0,Hybrid,Nissan,26000,Serena,6600000,Automatic,2020
+SUV,Mian Wali,Maroon,2700.0,Petrol,Toyota,200000,Surf,2800000,Automatic,1995
+Hatchback,Islamabad,White,796.0,Petrol,Suzuki,1,Mehran,1350000,Manual,2015
+SUV,Karachi,Blue,1500.0,Petrol,Suzuki,32143,Jimny,4600000,Manual,2020
+Sedan,Lahore,White,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Double Cabin,Karachi,Black,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,112772,Yaris Sedan,3850000,Manual,2022
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Unknown,Islamabad,White,1000.0,Petrol,Toyota,150000,Vitz,2025000,Automatic,2006
+Hatchback,Islamabad,Grey,1000.0,Petrol,Suzuki,100000,Cultus,1175000,Manual,2008
+Crossover,Lahore,White,2000.0,Petrol,Hyundai,47000,Tucson,7700000,Automatic,2023
+Crossover,Lahore,White,3500.0,Hybrid,Lexus,82000,RX Series,8950000,Automatic,2010
+Hatchback,Karachi,Silver,1000.0,Petrol,Suzuki,85000,Cultus,2385000,Manual,2018
+Crossover,Lahore,silver,1000.0,Petrol,Daihatsu,29000,Rocky,5825000,Automatic,2020
+SUV,Rawalpindi,Black,2000.0,Petrol,Hyundai,28532,Tucson,6995000,Automatic,2020
+Unknown,Sialkot,Grey,1000.0,Petrol,Toyota,38000,Yaris Hatchback,4350000,Automatic,2022
+Sedan,Bahawalpur,White,1500.0,Petrol,Toyota,52000,Yaris Sedan,4450000,Automatic,2021
+Crossover,Lahore,Red,1500.0,Petrol,MG,22500,HS,6800000,Automatic,2021
+Hatchback,Karachi,Silver,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Sedan,Faqirwali,White,1300.0,Petrol,Honda,300000,City,1400000,Manual,2004
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Hatchback,Rawalpindi,Silver,660.0,Petrol,Nissan,84200,Dayz,2470000,Automatic,2015
+Sedan,Sargodha,Burgundy,1300.0,Petrol,Toyota,149000,Corolla,2800000,Manual,2014
+Hatchback,Sangla Hills,White,1000.0,Petrol,Suzuki,95000,Wagon R,2450000,Manual,2019
+Sedan,Rawalpindi,Brown,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Hatchback,Sukkur,Red,800.0,Petrol,Suzuki,100000,Mehran,530000,Manual,2004
+Unknown,Abbottabad,Silver,1000.0,Petrol,Toyota,100000,Yaris Hatchback,4530000,Automatic,2021
+Hatchback,Islamabad,Silver,1000.0,Petrol,Toyota,70379,Passo,3650000,Automatic,2018
+Crossover,Islamabad,Black,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+Hatchback,Karachi,Blue,1000.0,Petrol,Toyota,84000,Yaris Hatchback,4250000,Automatic,2022
+Sedan,Faisalabad,Grey,1300.0,Hybrid,Honda,83000,Civic,2600080,Automatic,2007
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+MPV,Karachi,Grey,1500.0,Petrol,Honda,99700,BR-V,3800000,Automatic,2017
+Sedan,Lahore,Wine Red,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Unknown,Islamabad,Burgundy,4600.0,Petrol,Lexus,75460,LS Series,17500000,Automatic,2007
+SUV,Islamabad,Black,1500.0,Hybrid,Haval,30000,H6,10800000,Automatic,2024
+Hatchback,Lahore,Silver,660.0,Petrol,Daihatsu,126000,Move,2350000,Automatic,2015
+Crossover,Lahore,Black,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Unknown,Sialkot,White,800.0,Petrol,Suzuki,28000,Bolan,2015000,Manual,2024
+Sedan,Karachi,Silver,1497.0,Hybrid,Toyota,97505,Prius,2995000,Automatic,2011
+Unknown,Karachi,Silver,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Unknown,Karachi,Silver,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Unknown,Multan,White,2700.0,Petrol,Toyota,74726,Prado,23000000,Automatic,2017
+Crossover,Bahawalpur,White,2000.0,Petrol,KIA,44000,Sportage,6850000,Automatic,2020
+Sedan,Lahore,Pink,1800.0,Petrol,Honda,260000,Civic,2450000,Automatic,2008
+Crossover,Lahore,White,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Sedan,Lahore,White,1800.0,Petrol,Honda,260000,Civic,2450000,Automatic,2008
+Unknown,Karachi,Grey,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Hatchback,Islamabad,White,1000.0,Petrol,KIA,74000,Picanto,2590000,Manual,2021
+Hatchback,Islamabad,White,1000.0,Petrol,Toyota,150000,Vitz,2025000,Automatic,2006
+Hatchback,Islamabad,Grey,660.0,Petrol,Suzuki,101000,Wagon R,2550000,Automatic,2016
+Hatchback,Lahore,Grey,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Compact sedan,Karachi,White,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Hatchback,Lahore,Black,660.0,Hybrid,Nissan,73900,Dayz,4190000,Automatic,2022
+Crossover,Lahore,Black,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+SUV,Karachi,Black,2800.0,Diesel,Toyota,4400,Fortuner,21000000,Automatic,2025
+Crossover,Islamabad,White,1500.0,Petrol,DFSK,67000,Glory 580,6500000,Automatic,2022
+Crossover,Lahore,White,1800.0,Hybrid,Toyota,115728,C-HR,7300000,Automatic,2017
+Crossover,Islamabad,Black,1800.0,Hybrid,Toyota,98000,C-HR,7700000,Automatic,2018
+SUV,Islamabad,Black,2000.0,Petrol,Range Rover,45370,Vogue,56500000,Automatic,2019
+MPV,Karachi,White,1500.0,Petrol,Honda,99700,BR-V,3800000,Automatic,2017
+Unknown,Lahore,White,660.0,Petrol,Daihatsu,15000,Copen,4300000,Automatic,2022
+SUV,Lahore,White,2700.0,Petrol,Toyota,32000,Prado,27000000,Automatic,2020
+Sedan,Multan,White,2500.0,Petrol,Toyota,112137,Mark X,4300000,Automatic,2005
+SUV,Islamabad,White,4600.0,Petrol,Toyota,79000,Land Cruiser,27500000,Automatic,2013
+SUV,Bahawalpur,Green,3400.0,Petrol,Toyota,197000,Prado,4200000,Automatic,1996
+Sedan,Karachi,White,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Unknown,Karachi,Black,660.0,Petrol,Honda,78581,N Wgn,2800000,Automatic,2016
+Hatchback,Faisalabad,Brown,1300.0,Petrol,Toyota,162000,Vitz,3000000,Automatic,2013
+Unknown,Layyah,White,1500.0,Petrol,Mitsubishi,205000,Lancer,1600000,Automatic,2011
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Kasur,White,800.0,Petrol,Daihatsu,88000,Cuore,980000,Manual,2008
+Station Wagon,Dera ismail khan,Silver,1500.0,Hybrid,Toyota,16500,Corolla Fielder,4500000,Automatic,2014
+Sedan,Multan,Gold,2000.0,Petrol,Mercedes Benz,123000,E Class,1500000,Manual,1982
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,New saeedabad,Grey,1000.0,Petrol,Suzuki,117000,Cultus,1800000,Manual,2017
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Sedan,Lahore,Bronze,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Gojra,White,800.0,Petrol,Suzuki,100,Mehran,830000,Manual,2011
+Unknown,Rawalpindi,Silver,1300.0,Petrol,Nissan,136500,AD Van,1750000,Automatic,2006
+Sedan,Lahore,Silver,1600.0,Petrol,Mitsubishi,124000,Lancer,1700000,Manual,2007
+Hatchback,Lahore,Black,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Sedan,Karachi,Brown,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Hatchback,Bahawalpur,Grey,800.0,Petrol,Suzuki,63100,Mehran,1225000,Manual,2016
+Hatchback,Islamabad,Black,1500.0,Hybrid,Toyota,72317,Aqua,5295000,Automatic,2018
+Hatchback,Lahore,Beige,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Lahore,Silver,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Hatchback,Lahore,White,660.0,Petrol,Mitsubishi,103216,Ek Wagon,2150000,Automatic,2012
+Sedan,Islamabad,Blue,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Double Cabin,Karachi,Black,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Sedan,Lahore,Gold,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Lahore,Silver,1500.0,Hybrid,Honda,122000,Fit,3675000,Automatic,2015
+Hatchback,Wah cantt,Gold,660.0,Petrol,Suzuki,447163,Alto,1280000,Automatic,1998
+Sedan,Multan,White,1800.0,Petrol,Honda,81000,Civic,4570000,Automatic,2016
+Hatchback,Islamabad,Silver,1000.0,Petrol,Toyota,70379,Passo,3650000,Automatic,2018
+Hatchback,Rawalpindi,Grey,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Unknown,Islamabad,White,800.0,Petrol,Suzuki,223000,Bolan,1130000,Manual,2015
+Hatchback,Rawalpindi,Red,1000.0,Petrol,Toyota,100569,Aygo,2200000,Automatic,2010
+Sedan,Islamabad,Grey,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+MPV,Gujrat,White,1500.0,Petrol,Honda,110400,BR-V,4050000,Automatic,2019
+Sedan,Sialkot,White,1300.0,Petrol,Honda,260000,Civic,950000,Manual,1965
+Sedan,Islamabad,Blue,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Unknown,Karachi,White,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Unknown,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Hatchback,Kot addu,White,660.0,Petrol,Suzuki,28500,Wagon R,3500000,Automatic,2021
+Unknown,Karachi,White,660.0,Petrol,Honda,99000,Acty,1370000,Automatic,2013
+Sedan,Karachi,White,1300.0,Petrol,Changan,56200,Alsvin,3000000,Manual,2022
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Sedan,Islamabad,Grey,1300.0,Petrol,Honda,63000,City,3400000,Manual,2016
+SUV,Karachi,White,2700.0,Petrol,Toyota,46000,Prado,26500000,Automatic,2020
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Lahore,grey ,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Crossover,Faisalabad,White,1000.0,Petrol,Daihatsu,82000,Rocky,5900000,Automatic,2021
+Hatchback,Rawalpindi,Burgundy ,660.0,Petrol,Suzuki,1550,Wagon R,2270000,Automatic,2013
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Rawalpindi,White,1800.0,Petrol,Honda,43000,Civic,7200000,Automatic,2022
+Unknown,Rawalpindi,Silver,1000.0,Petrol,Chevrolet,300000,Joy,890000,Manual,2008
+Hatchback,Multan,Silver,1000.0,Petrol,Suzuki,76205,Wagon R,2820000,Manual,2020
+Hatchback,Karachi,Green,1000.0,Petrol,Toyota,149000,Passo,1800000,Automatic,2007
+Crossover,Lahore,Black,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Hatchback,Lahore,White,660.0,Petrol,Suzuki,51350,Alto,2595000,Manual,2024
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Crossover,Lahore,White,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Sedan,Rawalpindi,Green,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Hatchback,Faisalabad,White,800.0,Petrol,Suzuki,334649,Mehran,700000,Manual,2010
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Faisalabad,White,2000.0,Petrol,KIA,70000,Sportage,6600000,Automatic,2020
+Hatchback,Lahore,Black,660.0,Petrol,Daihatsu,126000,Move,2350000,Automatic,2015
+Sedan,Lahore,White,1600.0,Petrol,Suzuki,140000,Liana,1560000,Automatic,2010
+Hatchback,Sheikhupura,White,800.0,Petrol,Suzuki,83763,Mehran,1160000,Manual,2016
+Hatchback,Havali Lakhan,White,796.0,Petrol,Suzuki,62000,Mehran,1200000,Manual,2017
+Sedan,Rawalpindi,Silver,1800.0,Petrol,Mercedes Benz,117000,E Class,4850000,Automatic,2005
+Sedan,Rawalpindi,White,1800.0,Hybrid,Toyota,220000,Prius,5100000,Automatic,2011
+Sedan,Karachi,Brown,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Micro Van,Karachi,White,660.0,Petrol,Suzuki,118000,Every,2700000,Automatic,2020
+Mini Van,Lahore,Silver,660.0,Petrol,Mazda,220000,Scrum Van,2190000,Manual,2017
+SUV,Karachi,Silver,3000.0,Hybrid,Porsche,28000,Cayenne,80000000,Automatic,2020
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Hatchback,Karachi,Grey,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+SUV,Karachi,White,2700.0,Petrol,Toyota,46000,Prado,26500000,Automatic,2020
+Unknown,Lahore,Black,660.0,Hybrid,Nissan,73900,Dayz,4190000,Automatic,2022
+Mini Vehicles,Lahore,Blue,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+SUV,Karachi,White,1500.0,Petrol,Proton,21000,X70,6525000,Automatic,2022
+Hatchback,Karachi,Gold,1000.0,Petrol,Suzuki,85000,Cultus,2385000,Manual,2018
+Hatchback,Multan,Silver,1500.0,Hybrid,Toyota,220000,Aqua,4000000,Automatic,2015
+Sedan,Abbottabad,Silver,1800.0,Petrol,Honda,150000,Civic,2550000,Automatic,2008
+Crossover,Karachi,Silver,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Hatchback,Rahim Yar Khan,White,1000.0,LPG,Suzuki,10000,Alto,940000,Manual,2007
+Hatchback,Gujranwala,White,1000.0,Petrol,Suzuki,182717,Alto,1050000,Manual,2011
+Sedan,Lahore,Silver,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Double Cabin,Peshawar,Black,3000.0,Diesel,Toyota,180000,Hilux,6700000,Manual,2014
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Unknown,Rajanpur,Blue,1500.0,LPG,Daewoo,150000,Racer,350000,Manual,1996
+Sedan,Lahore,Grey,1800.0,Petrol,Honda,260000,Civic,2450000,Automatic,2008
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Unknown,Okara,White,1000.0,Petrol,Suzuki,110000,Khyber,510000,Manual,1998
+Hatchback,Peshawar,White,1500.0,Hybrid,Toyota,39802,Aqua,6300000,Automatic,2020
+Hatchback,Karachi,White,1000.0,Petrol,Toyota,15000,Yaris Hatchback,4775000,Automatic,2022
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+SUV,Karachi,White,4700.0,Petrol,Toyota,268350,Land Cruiser,9000000,Automatic,2003
+Crossover,Lahore,White,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Compact SUV,Multan,Grey,1500.0,Petrol,Changan,30000,Oshan X7,8100000,Automatic,2023
+Hatchback,Lahore,White,660.0,Petrol,Daihatsu,82000,Mira,2150000,Automatic,2012
+Sedan,Peshawar,Maroon,1300.0,Petrol,Toyota,201000,Corolla,4300000,Automatic,2018
+Sedan,Sialkot,Black,1300.0,Petrol,Honda,260000,Civic,950000,Manual,1965
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Lahore,White,1500.0,Petrol,Changan,63000,Alsvin,3650000,Automatic,2022
+SUV,Rawalpindi,White,4600.0,Petrol,Toyota,44000,Land Cruiser,46500000,Automatic,2020
+Double Cabin,Karachi,White,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Hatchback,Laliah,White,800.0,Petrol,Daihatsu,786,Cuore,880000,Automatic,2005
+Sedan,Burewala,grey,1300.0,Petrol,Honda,84000,City,3550000,Manual,2018
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Lahore,Blue,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Gojra,Grey,2000.0,Diesel,Toyota,200000,Corolla,2200000,Manual,2009
+Sedan,Islamabad,Black,1600.0,Hybrid,Hyundai,3183,Elantra,9600000,Automatic,2025
+Hatchback,Lahore,Grey,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Islamabad,Grey,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Islamabad,Maroon,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Lahore,Grey,1500.0,Petrol,Toyota,78000,Yaris Sedan,4575000,Automatic,2021
+Sedan,Tarbela,White,1300.0,CNG,Toyota,200000,Corolla,650000,Manual,1985
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+SUV,Gujranwala,White,1500.0,Hybrid,Haval,1200,H6,12300000,Automatic,2025
+Hatchback,Lahore,Turquoise,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Sedan,Rawalpindi,Black,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Hatchback,Rawalpindi,Grey,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Lahore,Black,660.0,Petrol,Honda,54000,N Box,3285000,Automatic,2022
+Sedan,Rawalpindi,Blue,1800.0,Petrol,Honda,43000,Civic,7200000,Automatic,2022
+Hatchback,Lahore,Grey,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,100,Cultus,1510000,Manual,2014
+Sedan,Islamabad,Silver,1300.0,Petrol,Honda,63000,City,3400000,Manual,2016
+SUV,Rawalpindi,Black,1500.0,Hybrid,Haval,75000,H6,10000000,Automatic,2023
+Hatchback,Karachi,Grey,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,100,Cultus,1510000,Manual,2014
+Hatchback,Islamabad,Grey,1000.0,Petrol,Toyota,150000,Vitz,2025000,Automatic,2006
+Sedan,Gujranwala,Grey,2000.0,Diesel,Toyota,300000,Corolla,3200000,Manual,2008
+Unknown,Karachi,Purple,2700.0,Petrol,Toyota,1000,Verossa,2845000,Automatic,2003
+Hatchback,Islamabad,Blue,1000.0,Petrol,Suzuki,100000,Cultus,1175000,Manual,2008
+Sedan,Faisalabad,RED,1800.0,Petrol,Toyota,78000,Corolla,6600000,Automatic,2022
+Sedan,Faisalabad,Silver,1800.0,Petrol,Toyota,78000,Corolla,6600000,Automatic,2022
+Sedan,Bahawalpur,grey,1800.0,Petrol,Honda,115000,Civic,3600000,Automatic,2013
+Sedan,Karachi,Indigo,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Rawalpindi,White,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Double Cabin,Lahore,Maroon,2500.0,Diesel,Toyota,150000,Hilux,3500000,Manual,1998
+Unknown,Faisalabad,Blue,1000.0,Petrol,Chevrolet,130000,Joy,899999,Manual,2008
+Sedan,Islamabad,Grey,1300.0,Petrol,Honda,63000,City,3400000,Manual,2016
+Crossover,Sialkot,Navy,1000.0,Petrol,Toyota,74000,Raize,5780000,Automatic,2025
+SUV,Lahore,Grey,2000.0,Hybrid,Range Rover,35000,Autobiography,80000000,Automatic,2021
+Compact SUV,Islamabad,Black,1500.0,Petrol,Changan,60000,Oshan X7,7450000,Automatic,2022
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Hatchback,Multan,Silver,660.0,Petrol,Daihatsu,140000,Move,2000000,Automatic,2012
+Unknown,Lahore,Blue,1300.0,Petrol,Nissan,61909,Kicks,6200000,Automatic,2021
+Sedan,Lahore,Silver,2000.0,Petrol,Hyundai,75987,Elantra,7500000,Automatic,2023
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+SUV,Karachi,Black,2800.0,Diesel,Toyota,4400,Fortuner,21000000,Automatic,2025
+Hatchback,Lahore,White,1200.0,Petrol,Suzuki,18100,Swift,4000000,Manual,2023
+Sedan,Tandiliyawala,White,1800.0,Petrol,Honda,115000,Civic,4850000,Automatic,2017
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Crossover,Karachi,White,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Hatchback,Karachi,Silver,1000.0,Petrol,Toyota,149000,Passo,1800000,Automatic,2007
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Islamabad,Silver,1500.0,Hybrid,Toyota,114000,Aqua,3650000,Automatic,2014
+Sedan,Narowal,White,1300.0,Petrol,Toyota,120000,Corolla,3780000,Manual,2015
+Hatchback,Karachi,White,1300.0,Petrol,Suzuki,66000,Swift,2100000,Manual,2014
+Hatchback,Multan,White,1000.0,Petrol,Suzuki,290000,Cultus,960000,Manual,2008
+Compact sedan,Karachi,Silver,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Islamabad,Unlisted,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Sedan,Chichawatni,White,1800.0,Petrol,Honda,148000,Civic,2375000,Automatic,2010
+Sedan,Zafarwal,White,2000.0,Petrol,Hyundai,71500,Elantra,6275000,Automatic,2022
+Compact SUV,Karachi,White,1500.0,Hybrid,Haval,15000,Jolion,9800000,Automatic,2025
+Truck,Karachi,Black,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Sedan,Peshawar,Grey,1300.0,Petrol,Toyota,171000,Corolla,2870000,Manual,2007
+Hatchback,Faisalabad,Burgundy,660.0,Petrol,Daihatsu,10000,Mira,3800000,Automatic,2021
+Compact SUV,Karachi,White,1500.0,Hybrid,Haval,15000,Jolion,9800000,Automatic,2025
+SUV,Karachi,White,2800.0,Diesel,Toyota,33530,Hilux,14600000,Automatic,2021
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Unknown,Lahore,Maroon,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+MPV,Islamabad,Black,1500.0,Petrol,Honda,33872,BR-V,5900000,Automatic,2021
+Hatchback,Lahore,Silver,660.0,Petrol,Suzuki,51350,Alto,2595000,Manual,2024
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Karachi,Pink,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Sedan,Lahore,Grey,1800.0,Petrol,Mercedes Benz,74500,C Class,5250000,Automatic,2008
+Unknown,Karachi,White,2400.0,Petrol,Honda,155000,Accord,2600000,Automatic,2002
+Sedan,Rawalpindi,Grey,1800.0,Petrol,Honda,96000,Civic,5395000,Automatic,2018
+Hatchback,Bannu,pink,1000.0,Petrol,Toyota,198000,Vitz,2500000,Automatic,2010
+Unknown,Rawalpindi,White,1000.0,Petrol,Suzuki,60000,Khyber,490000,Manual,1996
+Pick Up,Karachi,White,800.0,Petrol,Suzuki,65000,Ravi,835000,Manual,2018
+Sedan,Sheikhupura,White,1300.0,Petrol,Honda,145000,City,1800000,Manual,2005
+Sedan,Lahore,White,1500.0,Petrol,Toyota,78000,Yaris Sedan,4575000,Automatic,2021
+Hatchback,Hyderabad,Grey,800.0,Petrol,Suzuki,100000,FX,250000,Manual,1986
+Unknown,Lahore,White,800.0,Petrol,Suzuki,44000,Bolan,1825000,Manual,2021
+Sedan,Sialkot,Polish Mettalic,1300.0,Petrol,Honda,260000,Civic,950000,Manual,1965
+Hatchback,Multan,Grey,796.0,Petrol,Suzuki,80000,Mehran,845000,Manual,2013
+Hatchback,Hyderabad,Green,1000.0,Petrol,Suzuki,169000,Alto,1200000,Manual,2011
+Hatchback,Rawalpindi,White,1300.0,Petrol,FAW,160000,V2,1550000,Manual,2015
+Sedan,Sargodha,White,1300.0,Petrol,Toyota,149000,Corolla,2800000,Manual,2014
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Lahore,White,1400.0,Petrol,KIA,16000,Stonic,5600000,Automatic,2024
+Unknown,Karachi,Red,660.0,Petrol,Mitsubishi,106000,EK Space Custom,2200000,Automatic,2019
+Hatchback,Karachi,Grey,1500.0,Hybrid,Toyota,89000,Aqua,5100000,Automatic,2020
+Crossover,Lahore,Silver,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Sedan,Hyderabad,Silver,1300.0,Petrol,Honda,95000,City,2000000,Manual,2007
+SUV,Faisalabad,White,1500.0,Hybrid,Haval,17302,H6,11500000,Automatic,2025
+Crossover,Lahore,Bronze,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Sedan,Karachi,Black,1300.0,Petrol,Toyota,112772,Yaris Sedan,3850000,Manual,2022
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Hatchback,Karachi,Grey,1000.0,Petrol,Hyundai,150000,Santro,950000,Manual,2006
+Sedan,Rawalpindi,White,1800.0,Petrol,Honda,43000,Civic,7200000,Automatic,2022
+Crossover,Sialkot,Black,2000.0,Petrol,KIA,38750,Sportage,8050000,Automatic,2024
+Hatchback,Rawalpindi,White,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Hatchback,Karachi,Grey,1000.0,Petrol,Suzuki,365000,Alto,780000,Manual,2007
+Crossover,Lahore,Blue,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Lahore,White,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Crossover,Sialkot,White,2000.0,Petrol,KIA,38750,Sportage,8050000,Automatic,2024
+Sedan,Lahore,White,1300.0,Petrol,Suzuki,10000,Liana,1200000,Manual,2007
+Sedan,Okara, White,1800.0,Petrol,Honda,108000,Civic,5200000,Automatic,2018
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,410000,Cultus,820000,Manual,2006
+Hatchback,Gujranwala,Silver,1000.0,Petrol,Suzuki,187000,Cultus,1100000,Manual,2008
+Sedan,Karachi,White,1300.0,Petrol,Changan,56200,Alsvin,3000000,Manual,2022
+SUV,Karachi,Black,1500.0,Hybrid,Haval,25000,H6,10600000,Automatic,2023
+Sedan,Faisalabad,White,2500.0,Petrol,Toyota,125808,Mark X,4800000,Automatic,2007
+Hatchback,Rawalpindi,Green,1000.0,Petrol,Toyota,12500,Passo,4270000,Automatic,2022
+Hatchback,Karachi,Indigo,1500.0,Hybrid,Toyota,89000,Aqua,5100000,Automatic,2020
+Hatchback,Karachi,Silver,1000.0,Petrol,KIA,46682,Picanto,3100000,Automatic,2023
+Double Cabin,Faisalabad,White,3198.0,Diesel,Ford,150000,Ranger,5100000,Automatic,2012
+Sedan,Karachi,Red Wine,1300.0,Petrol,Toyota,109000,Corolla,3625000,Automatic,2016
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+SUV,Karachi,Black,1500.0,Hybrid,Haval,25000,H6,10600000,Automatic,2023
+Sedan,Islamabad,White,1300.0,Petrol,Suzuki,140000,Liana,1250000,Manual,2007
+Hatchback,Karachi,Blue,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Hatchback,Lahore,Grey,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Mini Vehicles,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Van,Pattoki,White,800.0,Petrol,Suzuki,254698,Bolan,360000,Manual,1992
+Hatchback,Sheikhupura,Silver,660.0,Petrol,Suzuki,11505,Wagon R,2635000,Automatic,2014
+Unknown,Abbottabad,Two-tone,3000.0,Petrol,Chevrolet,120000,Caprice,2650000,Automatic,1979
+Hatchback,Wah cantt,White,800.0,Petrol,Suzuki,24000,Mehran,860000,Manual,2007
+Hatchback,Lahore,Silver,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Van,Islamabad,White,800.0,Petrol,Suzuki,86000,Bolan,2180000,Manual,2022
+Hatchback,Arifwala,White,660.0,Petrol,Suzuki,70000,Alto,2580000,Automatic,2020
+Crossover,Lahore,Black,1400.0,Petrol,KIA,16000,Stonic,5600000,Automatic,2024
+Hatchback,Islamabad,Maroon,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Hatchback,Lahore,Gold,1300.0,Petrol,FAW,98000,V2,1600000,Manual,2018
+Mini Van,Sheikhupura,Silver,660.0,Petrol,Suzuki,11505,Wagon R,2635000,Automatic,2014
+Sedan,Islamabad,Silver,2400.0,Petrol,Honda,180000,Accord,3000000,Automatic,2002
+Sedan,Taxila,Silver,1300.0,Petrol,Toyota,410000,Corolla,1449999,Manual,1994
+Hatchback,Rawalpindi,Gold,800.0,Petrol,Suzuki,65000,Mehran,1500000,Manual,2011
+Crossover,Karachi,Blue,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Crossover,Islamabad,Maroon,1300.0,Petrol,Nissan,76000,Kicks,6650000,Automatic,2020
+Crossover,Lahore,White,1000.0,Petrol,Daihatsu,29000,Rocky,5825000,Automatic,2020
+Sedan,Islamabad,Silver,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Rawalpindi,Blue,1000.0,Petrol,KIA,14000,Picanto,2900000,Manual,2022
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,40000,Yaris Sedan,4450000,Automatic,2022
+Unknown,Peshawar,White,660.0,Petrol,Toyota,121818,Pixis Van,2000000,Automatic,2016
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+SUV,Karachi,White,1500.0,Hybrid,Haval,25000,H6,10600000,Automatic,2023
+Hatchback,Karachi,Silver,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Unknown,Peshawar,White,1500.0,Hybrid,Toyota,39802,Aqua,6300000,Automatic,2020
+SUV,Faisalabad,White,2700.0,Petrol,Toyota,90000,Fortuner,11600000,Automatic,2018
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Sedan,Lahore,Maroon,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Unknown,Karachi,Beige,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Sedan,Lahore,Silver,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Station Wagon,Wah cantt,Silver,1500.0,Petrol,Nissan,155000,Wingroad,2650000,Automatic,2007
+Unknown,Lahore,Red,660.0,Petrol,Mitsubishi,103216,Ek Wagon,2150000,Automatic,2012
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Hatchback,Lahore,Indigo,1500.0,Hybrid,Honda,200000,Spike,3225000,Automatic,2012
+Compact SUV,Karachi,Black,1500.0,Petrol,Daihatsu,200000,Be-go,3300000,Automatic,2012
+Unknown,Karachi,Silver,800.0,Petrol,Chevrolet,170000,Joy,620000,Manual,2003
+Hatchback,Karachi,Grey,800.0,Petrol,Suzuki,1,Mehran,610000,Manual,2011
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+SUV,Islamabad,Black,1500.0,Hybrid,Haval,30000,H6,10800000,Automatic,2024
+Hatchback,Faisalabad,Rose matelic colour,1300.0,Petrol,Toyota,162000,Vitz,3000000,Automatic,2013
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Lahore,White,2000.0,Petrol,Hyundai,11000,Sonata,9650000,Automatic,2025
+Mini Van,Pak pattan sharif,Black,1000.0,Petrol,FAW,165000,X-PV,1150000,Manual,2019
+Hatchback,Lahore,Beige,800.0,Petrol,Daihatsu,150000,Cuore,1170000,Manual,2010
+Pick Up,Gujranwala,White,800.0,Petrol,Suzuki,90000,Ravi,790000,Manual,2015
+Hatchback,Rawalpindi,Silver,996.0,Petrol,Toyota,108500,Vitz,3800000,Automatic,2017
+Hatchback,Lahore,White,660.0,Petrol,Honda,100000,N Wgn,2550000,Automatic,2015
+Hatchback,Lahore,White,660.0,Petrol,Daihatsu,23000,Move Canbus,3200000,Automatic,2021
+Hatchback,Karachi,Purple,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Sedan,Peshawar,White,1300.0,Petrol,Honda,100000,City,3180000,Manual,2012
+SUV,Karachi,Brown,2400.0,Petrol,KIA,18727,Sorento,7700000,Automatic,2021
+Van,Islamabad,White,800.0,Petrol,Suzuki,86000,Bolan,2180000,Manual,2022
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Gujranwala,White,2000.0,Diesel,Toyota,300000,Corolla,3200000,Manual,2008
+Crossover,Multan,White,1000.0,Petrol,Toyota,57466,Raize,6000000,Automatic,2020
+Hatchback,Karachi,Silver,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Crossover,Gujranwala,White,1000.0,Petrol,Toyota,30000,Raize,5300000,Automatic,2020
+Hatchback,Islamabad,White,796.0,Petrol,Suzuki,1,Mehran,1350000,Manual,2015
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Gujranwala,White,1200.0,Petrol,Honda,17000,City,4660000,Automatic,2024
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Islamabad,Red,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Hatchback,Karachi,Grey,1000.0,Petrol,Suzuki,85000,Cultus,2385000,Manual,2018
+Crossover,Sargodha,White,2000.0,Petrol,KIA,23000,Sportage,7050000,Automatic,2022
+Pick Up,Islamabad,White,800.0,Petrol,Suzuki,20000,Ravi,1050000,Manual,2016
+Unknown,Mardan,White,1000.0,Petrol,Toyota,250000,Vitz,2750000,Automatic,2011
+Crossover,Islamabad,White,1000.0,Petrol,Toyota,63952,Raize,5550000,Automatic,2020
+Unknown,Lahore,Burgundy,660.0,Petrol,Honda,54000,N Box,3285000,Automatic,2022
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,112772,Yaris Sedan,3850000,Manual,2022
+Sedan,Karachi,White,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Compact SUV,Lahore,Black,1500.0,Petrol,Changan,18500,Oshan X7,8800000,Automatic,2025
+Hatchback,Lahore,Black,1200.0,Hybrid,Nissan,57000,Note,4075000,Automatic,2020
+Sedan,Lahore,White,1600.0,Petrol,Toyota,97000,Corolla,4845000,Automatic,2018
+Hatchback,Wah cantt,Maroon,1300.0,Petrol,Suzuki,121000,Swift,1875000,Manual,2011
+Hatchback,Karachi,White,1000.0,Petrol,Toyota,15000,Yaris Hatchback,4775000,Automatic,2022
+Mini Van,Karachi,White,800.0,Petrol,Suzuki,10000,Bolan,350000,Manual,1993
+Hatchback,Gujranwala,White,1500.0,Hybrid,Toyota,150000,Aqua,4950000,Automatic,2017
+Coupe,Lahore,Silver,1500.0,Petrol,Honda,86000,CR-Z,3500000,Automatic,2010
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Crossover,Karachi,White,1600.0,Petrol,Chery,27000,Tiggo 8 Pro,8500000,Automatic,2023
+Unknown,Lahore,Black,3000.0,Diesel,Toyota,200000,Hiace,6200000,Manual,2009
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Sialkot,Black,1300.0,Petrol,Toyota,18900,Corolla,4850000,Manual,2020
+Sedan,Islamabad,shemering Green,1300.0,Petrol,Toyota,147000,Belta,2500000,Automatic,2008
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,Grey,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Islamabad,Silver,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Lahore,Red,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Hatchback,Karachi,Grey,1000.0,Petrol,Suzuki,66000,Cultus,1170000,Manual,2010
+Hatchback,Karachi,Grey,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Hatchback,Topi,Turquoise,660.0,Hybrid,Suzuki,30000,Hustler,3799000,Automatic,2025
+Unknown,Karachi,Maroon,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Mardan,White,1500.0,Hybrid,Toyota,70500,Aqua,4680000,Automatic,2018
+Unknown,Karachi,White,660.0,Petrol,Daihatsu,86000,Hijet,2450000,Automatic,2021
+Hatchback,Sialkot,Silver,800.0,Petrol,Suzuki,99999,Mehran,550000,Manual,1993
+SUV,Islamabad,Black,1600.0,Hybrid,Hyundai,10500,Santa Fe,13000000,Automatic,2024
+SUV,Karachi,Black,2000.0,Petrol,Hyundai,38629,Tucson,8450000,Automatic,2023
+Hatchback,Islamabad,Black,660.0,Petrol,Honda,29149,N Wgn,3599000,Automatic,2021
+SUV,Islamabad,Black,2800.0,Diesel,Toyota,47879,Fortuner,17900000,Automatic,2023
+Sedan,Karachi,White,1000.0,Petrol,Toyota,99000,Belta,2100000,Automatic,2007
+Hatchback,Karachi,Black,1000.0,Petrol,Toyota,130000,Vitz,2600000,Automatic,2012
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Karachi,Grey,1800.0,Petrol,Honda,81000,Civic,3600000,Automatic,2014
+Crossover,Lahore,Maroon,1000.0,Petrol,Daihatsu,81000,Rocky,5095000,Automatic,2020
+SUV,Islamabad,White,4000.0,Petrol,Toyota,83356,Prado,11700000,Automatic,2006
+SUV,Islamabad,Silver,1500.0,Hybrid,Haval,30000,H6,10800000,Automatic,2024
+Hatchback,Jhang,Silver,1000.0,Petrol,Suzuki,43000,Cultus,3660000,Manual,2022
+Unknown,Karachi,Black,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Sedan,Peshawar,Grey,1300.0,Petrol,Honda,100000,City,3180000,Manual,2012
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Karachi,White,1000.0,Petrol,Suzuki,365000,Alto,780000,Manual,2007
+Sedan,Multan,Grey,1300.0,Petrol,Toyota,343000,Corolla,2950000,Manual,2012
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Unknown,Faisalabad,Navy,1600.0,Petrol,BMW,125000,3 Series,7900000,Automatic,2013
+Sedan,Islamabad,White,1800.0,Hybrid,Toyota,79000,Prius,5200000,Automatic,2010
+Sedan,Islamabad,Red,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Unknown,Gujranwala,Blue,1000.0,Petrol,Suzuki,186000,Khyber,450000,Manual,1996
+Hatchback,Karachi,Turquoise,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Sedan,Rawalpindi,Bronze,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Sedan,Karachi,grey,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Sedan,Lala musa,White,2000.0,Diesel,Toyota,200000,Corolla,2350000,Manual,2002
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Unknown,Karachi,White,800.0,Petrol,Suzuki,10000,Bolan,350000,Manual,1993
+MPV,Lahore,Black,1800.0,Hybrid,Toyota,250000,Prius Alpha,4300000,Automatic,2011
+Hatchback,Abbottabad,White,660.0,Petrol,Suzuki,35600,Alto,2850000,Manual,2024
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,109000,Corolla,3625000,Automatic,2016
+Sedan,Lahore,Black,1500.0,Hybrid,Honda,90000,Insight,10200000,Automatic,2018
+Crossover,Lahore,White,1500.0,Hybrid,Honda,32500,Vezel,10500000,Automatic,2021
+SUV,Karachi,Black,4700.0,Petrol,Toyota,268350,Land Cruiser,9000000,Automatic,2003
+Hatchback,Karachi,Silver,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Compact sedan,Karachi,White,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Hatchback,Rawalpindi,Silver,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Islamabad,Grey,1000.0,Petrol,Suzuki,100000,Cultus,1175000,Manual,2008
+Hatchback,Dera Ghazi Khan,White,796.0,Petrol,Suzuki,195500,Mehran,1325000,Manual,2015
+Hatchback,Rawalpindi,Grey,1300.0,Petrol,Suzuki,110231,Swift,2245000,Automatic,2013
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Unknown,Lahore,Silver,1000.0,Petrol,Toyota,140000,Vitz,1850000,Automatic,1999
+Truck,Rawalpindi,Black,2800.0,Diesel,Toyota,21500,Hilux,15700000,Automatic,2023
+Sedan,Islamabad,Silver,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Pak pattan sharif,White,800.0,Petrol,Suzuki,200000,FX,200000,Manual,1986
+Hatchback,Rawalpindi,blue,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Abbottabad,Grey,800.0,Petrol,Suzuki,135000,Mehran,459000,Manual,1995
+Sedan,Lahore,White,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Rawalpindi,White,1800.0,Petrol,Honda,96000,Civic,5395000,Automatic,2018
+Hatchback,Karachi,Indigo,1300.0,Petrol,Suzuki,66000,Swift,2100000,Manual,2014
+Sedan,Lahore,White,2000.0,Petrol,Hyundai,75987,Elantra,7500000,Automatic,2023
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Crossover,Karachi,Black,1000.0,Petrol,Toyota,29000,Raize,5250000,Automatic,2021
+Hatchback,Faisalabad,White,1000.0,Petrol,Suzuki,93500,Wagon R,2530000,Manual,2019
+Sedan,Islamabad,Black,1800.0,Petrol,Mercedes Benz,92000,E Class,9200000,Automatic,2010
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,101000,Wagon R,2550000,Automatic,2016
+Crossover,Karachi,Pearl White,1000.0,Petrol,Toyota,29000,Raize,5250000,Automatic,2021
+Crossover,Islamabad,White,1600.0,Petrol,Chery,46230,Tiggo 8 Pro,7700000,Automatic,2022
+Hatchback,Karachi,White,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Crossover,Karachi,White,1000.0,Petrol,Toyota,29000,Raize,5250000,Automatic,2021
+Sedan,Rawalpindi,Silver,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Hatchback,Lahore,Silver,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Bahawalnagar,Silver,1800.0,Petrol,Honda,178000,Civic,3645000,Automatic,2013
+Unknown,Bahawalpur,Beige,1300.0,Petrol,Suzuki,110000,Liana,1650000,Manual,2012
+Hatchback,Peshawar,Silver,660.0,Petrol,Suzuki,130000,Wagon R,2850000,Automatic,2015
+Hatchback,Karachi,Beige,1000.0,Petrol,Suzuki,148000,Wagon R,2030000,Manual,2019
+Micro Van,Faisalabad,White,660.0,Petrol,Suzuki,127500,Every,2250000,Automatic,2016
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Sedan,Nowshera cantt,White,1300.0,Petrol,Toyota,200000,Corolla,2700000,Manual,2011
+Single Cabin,Faisalabad,White,2500.0,Diesel,Toyota,216000,Hilux,5750000,Automatic,2014
+Sedan,Rawalpindi,Black,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Hatchback,Mardan,White,1000.0,Petrol,Toyota,250000,Vitz,2750000,Automatic,2011
+SUV,Swatmingora,White,3400.0,Petrol,Toyota,112000,Prado,12000000,Automatic,2002
+Hatchback,Lahore,Gold,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Hatchback,Lahore,Black,660.0,Petrol,Honda,100000,N Wgn,2550000,Automatic,2015
+Crossover,Karachi,White,1000.0,Petrol,Toyota,29000,Raize,5250000,Automatic,2021
+Sedan,Multan,Black,1800.0,Petrol,Honda,81000,Civic,4570000,Automatic,2016
+SUV,Karachi,White,2700.0,Petrol,Toyota,46000,Prado,26500000,Automatic,2020
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Hatchback,Lahore,Black,660.0,Petrol,Honda,100000,N Wgn,2550000,Automatic,2015
+SUV,Karachi,Black,2700.0,Petrol,Toyota,40000,Prado,28500000,Automatic,2021
+Unknown,Karachi,Black,1500.0,Hybrid,Honda,99000,Freed,3395000,Automatic,2012
+SUV,Karachi,White,4700.0,Petrol,Toyota,268350,Land Cruiser,9000000,Automatic,2003
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,10000,Civic,1230000,Automatic,1998
+Hatchback,Mardan,White,660.0,Petrol,Suzuki,128000,Alto,2250000,Automatic,2013
+SUV,Lahore,White,2800.0,Diesel,Toyota,77000,Fortuner,15700000,Automatic,2022
+Sedan,Karachi,Black,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Sedan,Peshawar,White,1800.0,Hybrid,Toyota,98300,Prius,3300000,Automatic,2011
+Sedan,Karachi,Black,4000.0,Petrol,BMW,97776,7 Series,4950000,Automatic,2005
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Rawalpindi,Green,1500.0,Petrol,KIA,220000,Spectra,695000,Manual,2003
+Sedan,Karachi,White,1800.0,Petrol,Honda,81000,Civic,3600000,Automatic,2014
+Hatchback,Karachi,Burgundy,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Sedan,Peshawar,White,1300.0,Petrol,Toyota,171000,Corolla,2870000,Manual,2007
+Hatchback,Gujranwala,Grey,1000.0,Petrol,Suzuki,92642,Wagon R,2935000,Manual,2021
+Hatchback,Rawalpindi,Green,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Peshawar,Silver,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Unknown,Karachi,White,1000.0,Petrol,Toyota,15000,Yaris Hatchback,4775000,Automatic,2022
+Crossover,Lahore,Black,1490.0,Petrol,MG,29850,HS,6440000,Automatic,2021
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Crossover,Rawalpindi,White,1000.0,Petrol,Toyota,22000,Raize,5800000,Automatic,2021
+Crossover,Karachi,Blue,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Hatchback,Lahore,White,660.0,Petrol,Honda,54000,N Box,3285000,Automatic,2022
+Crossover,Karachi,Black,1000.0,Petrol,Toyota,52000,Raize,6500000,Automatic,2021
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+SUV,Lahore,White,2000.0,Petrol,Hyundai,47000,Tucson,7700000,Automatic,2023
+Sedan,Lahore,Blue,2000.0,Petrol,Hyundai,75987,Elantra,7500000,Automatic,2023
+Hatchback,Lahore,Silver,660.0,Petrol,Daihatsu,116817,Move,2800000,Automatic,2015
+Van,Islamabad,White,800.0,Petrol,Suzuki,86000,Bolan,2180000,Manual,2022
+Hatchback,Wah cantt,Grey,660.0,Petrol,Suzuki,447163,Alto,1280000,Automatic,1998
+SUV,Islamabad,Grey,1600.0,Petrol,Suzuki,101900,Vitara,3700000,Automatic,2018
+Hatchback,Lahore, White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Hatchback,Sargodha,Silver,1000.0,Petrol,Suzuki,18000,Cultus,3600000,Manual,2022
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Sedan,Lahore,White,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Lahore,Grey,660.0,Petrol,Daihatsu,82000,Mira,2150000,Automatic,2012
+SUV,Lahore,Green,660.0,Petrol,Suzuki,65000,Jimny,4700000,Automatic,2020
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+SUV,Karachi,White,2700.0,Petrol,Toyota,40000,Prado,28500000,Automatic,2021
+Hatchback,Lahore,Yellow,660.0,Petrol,Daihatsu,82000,Mira,2150000,Automatic,2012
+Compact sedan,Karachi,White,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+SUV,Islamabad,Black,4000.0,Petrol,Toyota,83356,Prado,11700000,Automatic,2006
+Crossover,Islamabad,Black,1500.0,Petrol,MG,47000,HS,6370000,Automatic,2021
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,109000,Corolla,3625000,Automatic,2016
+Hatchback,Lahore,Blue,660.0,Hybrid,Suzuki,40000,Hustler,3650000,Automatic,2020
+Hatchback,Islamabad,White,660.0,Petrol,Honda,10000,N One,3650000,Automatic,2023
+Sedan,Lahore,White,1300.0,Petrol,Honda,45000,City,2150000,Manual,2008
+Sedan,Sahiwal,Shimmering Green,1800.0,Petrol,Toyota,120000,Corolla,1200000,Manual,1988
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Hatchback,Karachi,Silver,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Hatchback,Lahore,White,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Kasur,Silver,1300.0,Petrol,Changan,29400,Alsvin,3700000,Manual,2024
+Hatchback,Sukkur,Silver,800.0,Petrol,Suzuki,100000,Mehran,530000,Manual,2004
+Unknown,Rawalpindi,Silver,1000.0,Petrol,Suzuki,100,Cultus,1510000,Manual,2014
+Sedan,Rawalpindi,Silver,1300.0,Petrol,Honda,83000,City,3850000,Automatic,2017
+Sedan,Lahore,Silver,1500.0,Hybrid,Toyota,140000,Prius,3150000,Automatic,2008
+Sedan,Lahore,Grey,1300.0,Petrol,Honda,45000,City,2150000,Manual,2008
+Hatchback,Karachi,White,660.0,Petrol,Daihatsu,11000,Mira,3675000,Automatic,2022
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Hatchback,Karachi,Silver,1300.0,Petrol,Suzuki,54061,Swift,2450000,Manual,2019
+Crossover,Islamabad,White,2000.0,Petrol,Hyundai,67000,Tucson,6900000,Automatic,2020
+Crossover,Islamabad,Black,1500.0,Petrol,MG,47000,HS,6370000,Automatic,2021
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,80000,Yaris Sedan,4300000,Automatic,2021
+Crossover,Islamabad,White,2000.0,Petrol,KIA,30000,Sportage,7495000,Automatic,2022
+Hatchback,Lahore,Silver,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Lahore,White,660.0,Hybrid,Nissan,26000,Dayz,4450000,Automatic,2022
+Crossover,Lahore,White,1500.0,Hybrid,Honda,32500,Vezel,10500000,Automatic,2021
+Sedan,Lahore,White,2500.0,Petrol,Hyundai,57028,Sonata,9300000,Automatic,2022
+Hatchback,Lahore,Turquoise,660.0,Hybrid,Nissan,26000,Dayz,4450000,Automatic,2022
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Swabi,Silver,1500.0,Petrol,Toyota,300000,Corolla Axio,3900000,Automatic,2006
+Sedan,Gujranwala,White,1800.0,Petrol,Honda,92000,Civic,4200000,Manual,2015
+Hatchback,Lahore,Grey,1000.0,Petrol,Suzuki,82000,Wagon R,2050000,Manual,2017
+Sedan,Wah cantt,Black,1800.0,Petrol,Toyota,100000,Corolla,4500000,Automatic,2015
+Hatchback,Lahore,Grey,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+Sedan,Lahore,Gold,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,112772,Yaris Sedan,3850000,Manual,2022
+SUV,Islamabad,White,4000.0,Petrol,Toyota,83356,Prado,11700000,Automatic,2006
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,10000,Civic,1230000,Automatic,1998
+SUV,Rawalpindi,Black,1500.0,Hybrid,Haval,75000,H6,10000000,Automatic,2023
+Crossover,Lahore,Grey,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Karachi,Burgundy,1000.0,Petrol,Toyota,149000,Passo,1800000,Automatic,2007
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Rawalpindi,White,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Sedan,Rawalpindi,White,1800.0,Petrol,Honda,96000,Civic,5395000,Automatic,2018
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Crossover,Lahore,Red,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Islamabad,Blue,1500.0,Hybrid,Toyota,114000,Aqua,3650000,Automatic,2014
+SUV,Islamabad,White,1500.0,Hybrid,Haval,30000,H6,10800000,Automatic,2024
+Hatchback,Rawalpindi,White,1200.0,Hybrid,Nissan,120000,Note,4700000,Automatic,2019
+Crossover,Karachi,White,1400.0,Petrol,KIA,5925,Stonic,5625000,Automatic,2024
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,194515,Alto,930000,Manual,2008
+MPV,Lahore,White,1500.0,Petrol,Honda,42000,BR-V,4900000,Automatic,2021
+Hatchback,Peshawar,White,1200.0,Petrol,Suzuki,62000,Swift,4000000,Automatic,2022
+Hatchback,Faisalabad,White,800.0,Petrol,Suzuki,334649,Mehran,700000,Manual,2010
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Khurrianwala,Red,2000.0,Petrol,KIA,55000,Sportage,6400000,Automatic,2021
+Hatchback,Karachi,White,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Sedan,Karachi,White,1800.0,Petrol,Honda,81000,Civic,3600000,Automatic,2014
+Hatchback,Karachi,Blue,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Unknown,Gujranwala,White,660.0,Petrol,Daihatsu,157000,Hijet,1550000,Automatic,2013
+Crossover,Islamabad,Black,1500.0,Petrol,Jetour,22,Dashing,8700000,Automatic,2025
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Crossover,Lahore,Navy,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+SUV,Islamabad,Black,1997.0,Petrol,Range Rover,32000,Vogue,62000000,Automatic,2019
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Lahore,Beige,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Mini Vehicles,Islamabad,White,660.0,Petrol,Daihatsu,28000,Taft,4100000,Automatic,2023
+Sedan,Bahawalpur,White,1500.0,Petrol,Honda,50000,City,4150000,Automatic,2020
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Hatchback,Lahore,Silver,1000.0,Petrol,Hyundai,233000,Santro,885000,Manual,2004
+Crossover,Islamabad,White,1000.0,Petrol,Toyota,63952,Raize,5550000,Automatic,2020
+Hatchback,Karachi,Grey,1000.0,Petrol,Hyundai,150000,Santro,950000,Manual,2006
+Sedan,Karachi,Grey,1300.0,Petrol,Toyota,109000,Corolla,3625000,Automatic,2016
+Crossover,Faisalabad,purple,1500.0,Hybrid,Honda,8846,Vezel,8800000,Automatic,2020
+Sedan,Faisalabad,Gold,1800.0,Petrol,Toyota,78000,Corolla,6600000,Automatic,2022
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Unknown,Wah cantt,Silver,1500.0,Petrol,Toyota,457845,Corolla Fielder,2650000,Automatic,2001
+Unknown,Nankana sahib,White,800.0,Petrol,Suzuki,250000,Mehran,670000,Manual,2009
+Mini Van,Karachi,White,660.0,Petrol,Daihatsu,86000,Hijet,2450000,Automatic,2021
+Crossover,Lahore,White,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Sedan,Karachi,White,1300.0,Petrol,Changan,56200,Alsvin,3000000,Manual,2022
+Sedan,Karachi,Silver,1500.0,Petrol,Changan,37000,Alsvin,3475000,Automatic,2021
+Sedan,Lahore,Navy,1400.0,Petrol,Audi,12000,A5,17000000,Automatic,2019
+Sedan,Karachi,White,1300.0,Petrol,Changan,56200,Alsvin,3000000,Manual,2022
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Karachi,White,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+SUV,Karachi,White,2700.0,Petrol,Toyota,40000,Prado,28500000,Automatic,2021
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,40000,Yaris Sedan,4450000,Automatic,2022
+Hatchback,Lahore,Yellow,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Sedan,Khanewal,Silver,1300.0,Petrol,Toyota,156000,Corolla,4299000,Manual,2018
+Compact sedan,Hyderabad,grey,1323.0,CNG,KIA,100000,Classic,450000,Manual,2003
+Hatchback,Faisalabad,White,1000.0,Petrol,Hyundai,120000,Santro,975000,Manual,2004
+Unknown,Toba Tek Singh,White,1000.0,Petrol,FAW,100000,Carrier,750000,Manual,2012
+Pick Up,Okara,Green,800.0,Petrol,Suzuki,80000,Ravi,750000,Manual,2015
+Crossover,Rawalpindi,Black,1500.0,Hybrid,Honda,47000,Vezel,6850000,Automatic,2019
+Mini Van,Karachi,White,800.0,Petrol,Suzuki,10000,Bolan,350000,Manual,1993
+Crossover,Lahore,White,1500.0,Petrol,DFSK,105000,Glory 580,5700000,Automatic,2021
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,82000,Wagon R,2050000,Manual,2017
+Crossover,Lahore,Black,1000.0,Petrol,Daihatsu,81000,Rocky,5095000,Automatic,2020
+Hatchback,Lahore,Black,1000.0,Petrol,Suzuki,50000,Khyber,400000,Manual,1992
+Pick Up,Islamabad,White,2800.0,Diesel,Toyota,55000,Hilux,11000000,Automatic,2020
+Crossover,Islamabad,White,1600.0,Petrol,Chery,46230,Tiggo 8 Pro,7700000,Automatic,2022
+Sedan,Islamabad,Silver,1500.0,Hybrid,Toyota,85000,Corolla Axio,5350000,Automatic,2017
+Hatchback,Lahore,Black,996.0,Petrol,Toyota,79000,Vitz,4200000,Automatic,2019
+Sedan,Lahore,Silver,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Compact sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Hatchback,Lahore,Grey,660.0,Hybrid,Nissan,26000,Dayz,4450000,Automatic,2022
+Hatchback,Lahore,Silver,1200.0,Petrol,Suzuki,18100,Swift,4000000,Manual,2023
+SUV,Lahore,Silver,2000.0,Petrol,Hyundai,47000,Tucson,7700000,Automatic,2023
+Coupe,Rawalpindi,Blue,1500.0,Petrol,Volkswagen,200000,Beetle,930000,Manual,1970
+Sedan,Lahore,White,2000.0,Petrol,Mercedes Benz,33600,E Class,33500000,Automatic,2021
+Hatchback,Faisalabad,Silver,1000.0,Petrol,Hyundai,120000,Santro,975000,Manual,2004
+Unknown,Lahore,Black,1000.0,Petrol,Daihatsu,81000,Rocky,5095000,Automatic,2020
+Hatchback,Lahore,Silver,1500.0,Hybrid,Toyota,120000,Aqua,3600000,Automatic,2013
+Sedan,Nankana sahib,White,1300.0,Petrol,Suzuki,107000,Baleno,900000,Manual,2004
+Sedan,Karachi,Silver,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Malakwal,White,800.0,Petrol,Suzuki,8000,Bolan,1050000,Manual,2011
+Unknown,Faisalabad,White,1500.0,Petrol,Honda,80000,City,4200000,Automatic,2019
+Sedan,Rawalpindi,White,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Hatchback,Narowal,brown,1000.0,Petrol,Toyota,180000,Passo,1680000,Automatic,2007
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Islamabad,Black,1500.0,Petrol,Honda,40400,HR-V,7000000,Automatic,2024
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+SUV,Lahore,White,3500.0,Petrol,Toyota,44000,Land Cruiser,43000000,Automatic,2023
+Sedan,Islamabad,Black,1300.0,Petrol,Toyota,227000,Corolla,2450000,Manual,2010
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Lahore,White,1200.0,Petrol,Suzuki,18100,Swift,4000000,Manual,2023
+Sedan,Burewala,White,1300.0,Petrol,Honda,84000,City,3550000,Manual,2018
+SUV,Lahore,Black,2700.0,Petrol,Toyota,63533,Prado,17600000,Automatic,2013
+Micro Van,Karachi,Black,660.0,Petrol,Suzuki,85220,Every,1750000,Automatic,2012
+Sedan,Lahore,White,1400.0,Petrol,Audi,12000,A5,17000000,Automatic,2019
+MPV,Islamabad,Silver,1500.0,Petrol,Honda,33872,BR-V,5900000,Automatic,2021
+Hatchback,Takhtbai,White,800.0,Petrol,Suzuki,85000,Mehran,1280000,Manual,2016
+Hatchback,Gujranwala,White,800.0,Petrol,Suzuki,200000,Mehran,610000,Manual,2009
+Sedan,Rawalpindi,White,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Hatchback,Peshawar,Blue,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Hatchback,Bahawalpur,Silver,660.0,Petrol,Daihatsu,40000,Mira,3550000,Automatic,2022
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Karachi,Blue,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Hatchback,Islamabad,Silver,1000.0,Petrol,Nissan,255000,March,2000000,Automatic,2004
+Sedan,Karachi,Maroon,1800.0,Petrol,Honda,81000,Civic,3600000,Automatic,2014
+Unknown,Mardan,White,1500.0,Petrol,Toyota,300000,Corolla,3700000,Automatic,2006
+Unknown,Islamabad,Grey,4600.0,Petrol,Toyota,79000,Land Cruiser,27500000,Automatic,2013
+Crossover,Lahore,White,1000.0,Petrol,Daihatsu,81000,Rocky,5095000,Automatic,2020
+SUV,Lahore,White,2700.0,Petrol,Toyota,32000,Prado,27000000,Automatic,2020
+SUV,Lahore,White,2700.0,Petrol,Toyota,63533,Prado,17600000,Automatic,2013
+Sedan,Islamabad,White,3000.0,Hybrid,BMW,65000,5 Series,13900000,Automatic,2015
+Hatchback,Faisalabad,Grey,800.0,Petrol,Suzuki,334649,Mehran,700000,Manual,2010
+Truck,Islamabad,White,2800.0,Diesel,Toyota,70000,Hilux,13640000,Automatic,2023
+SUV,Karachi,White,2700.0,Petrol,Toyota,40000,Prado,28500000,Automatic,2021
+Crossover,Islamabad,Navy,1000.0,Petrol,Toyota,63952,Raize,5550000,Automatic,2020
+Hatchback,Karachi,black,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Sedan,Multan,Silver,1300.0,Petrol,Toyota,64000,Yaris Sedan,3950000,Manual,2020
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Hatchback,Karachi,grey,660.0,Petrol,Toyota,77025,Pixis Epoch,2330000,Automatic,2014
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Mansehra,Pistachio,1300.0,Petrol,Toyota,134000,Corolla,3300000,Manual,2011
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Muridke,Black,1800.0,Petrol,Honda,145000,Civic,3250000,Manual,2014
+Double Cabin,Lahore,Silver,2500.0,Diesel,Toyota,150000,Hilux,3500000,Manual,1998
+Sedan,Rawalpindi,White,1300.0,Petrol,Toyota,85000,Yaris Sedan,3980000,Automatic,2021
+Hatchback,Karachi,Grey,800.0,Petrol,Daihatsu,120000,Cuore,850000,Manual,2010
+Hatchback,Karachi,White,1000.0,Petrol,Suzuki,66000,Cultus,1170000,Manual,2010
+Hatchback,Lahore,Grey,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Crossover,Karachi,Silver,1490.0,Petrol,MG,52000,HS,5850000,Automatic,2021
+Hatchback,Karachi,SHINING RED ,1000.0,Petrol,Toyota,138,Passo,1750000,Automatic,2006
+Hatchback,Lahore,Silver,660.0,Petrol,Suzuki,51350,Alto,2595000,Manual,2024
+Sedan,Lahore,White,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Islamabad,Silver,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Nowshera,Green,1600.0,Petrol,Honda,290000,Civic,1460000,Automatic,2003
+Crossover,Islamabad,White,1500.0,Petrol,MG,129251,HS,5800000,Automatic,2021
+Crossover,Karachi,Silver,2000.0,Petrol,Hyundai,38629,Tucson,8450000,Automatic,2023
+Sedan,Lahore,Grey,1300.0,Petrol,Proton,78000,Saga,2860000,Automatic,2021
+SUV,Lahore,White,3500.0,Petrol,Toyota,44000,Land Cruiser,43000000,Automatic,2023
+Sedan,Lahore,Grey,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Mini Van,Islamabad,White,1000.0,Petrol,Changan,128000,Karvaan,2400000,Manual,2021
+Sedan,Lahore,White,2500.0,Petrol,Hyundai,57028,Sonata,9300000,Automatic,2022
+Compact sedan,Lahore,Grey,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Crossover,Islamabad,Grey,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+Hatchback,Islamabad,Grey,660.0,Petrol,Suzuki,101000,Wagon R,2550000,Automatic,2016
+Hatchback,Lahore,Silver,800.0,Petrol,Suzuki,77000,Mehran,1250000,Manual,2017
+Sedan,Rawalpindi,White,1500.0,Petrol,Toyota,25631,Yaris Sedan,4900000,Automatic,2022
+Unknown,Faisalabad,Grey,1500.0,Petrol,Honda,80000,City,4200000,Automatic,2019
+Hatchback,Rawalpindi,White,1000.0,Petrol,Toyota,12500,Passo,4270000,Automatic,2022
+Sedan,Peshawar,Black,1300.0,Petrol,Honda,100000,City,3180000,Manual,2012
+Hatchback,Karachi,White,1300.0,Petrol,Suzuki,54061,Swift,2450000,Manual,2019
+Sedan,Karachi,Gold,1300.0,Petrol,Suzuki,200000,Baleno,870000,Manual,2005
+Sedan,Islamabad,Burgundy,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Unknown,Islamabad,Brown,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Karachi,Silver,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Compact sedan,Karachi,Maroon,1300.0,Petrol,Honda,66000,City,3650000,Automatic,2018
+Sedan,Mardan,White,1500.0,Petrol,Toyota,300000,Corolla,3700000,Automatic,2006
+Crossover,Karachi,Blue,1500.0,Hybrid,Honda,115000,Vezel,3975000,Automatic,2014
+Hatchback,Karachi,Silver,1000.0,Petrol,Suzuki,66000,Cultus,1170000,Manual,2010
+Hatchback,Karachi,Silver,1300.0,Petrol,Suzuki,54061,Swift,2450000,Manual,2019
+Unknown,Islamabad,White,1000.0,Petrol,Toyota,200000,Vitz,2350000,Automatic,2002
+Crossover,Lahore,Pearl White,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Lahore,Dual Tone,660.0,Petrol,Honda,100000,N Wgn,2550000,Automatic,2015
+Hatchback,Lahore,Pearl Black,660.0,Hybrid,Nissan,26000,Dayz,4450000,Automatic,2022
+Sedan,Karachi,White,1500.0,Petrol,Honda,66000,City,3995000,Automatic,2020
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Compact sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Islamabad,White,1500.0,Petrol,Honda,78000,City,3995000,Automatic,2018
+Sedan,Karachi,Grey,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Unknown,Jhang,Beige,800.0,Petrol,Suzuki,100000,Mehran,320000,Manual,1990
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Gujranwala,Beige,660.0,Petrol,Honda,123880,N Wgn,2399000,Automatic,2013
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,100,Cultus,1510000,Manual,2014
+Crossover,Islamabad,Black,1500.0,Hybrid,Honda,117000,Vezel,4100000,Automatic,2014
+SUV,Gujranwala,Silver,2400.0,Petrol,Honda,160000,CR-V,3990000,Automatic,2008
+Sedan,Peshawar,Maroon,1299.0,Petrol,Proton,55000,Saga,3300000,Automatic,2022
+Sedan,Gujrat,White,1300.0,Petrol,Toyota,217000,Corolla,2640000,Manual,2014
+Hatchback,Rawalpindi,Silver,1000.0,Petrol,Suzuki,123000,Cultus,1795000,Manual,2016
+Mini Vehicles,Gujranwala,Green,660.0,Petrol,Daihatsu,41000,Taft,3800000,Automatic,2021
+Hatchback,Lahore,Grey,660.0,Petrol,Honda,100000,N Wgn,2550000,Automatic,2015
+Hatchback,Peshawar,White,800.0,Petrol,Suzuki,100000,Mehran,550000,Manual,2003
+Sedan,Rawalpindi,White,2000.0,Diesel,Toyota,260000,Corolla,1600000,Manual,2001
+Sedan,Islamabad,Silver,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Unknown,Karachi,Beige,3000.0,Petrol,Range Rover,130000,Vogue,8500000,Manual,1972
+Hatchback,Lahore,White,1000.0,Petrol,Suzuki,42000,Cultus,3350000,Manual,2021
+Crossover,Lahore,Silver,1000.0,Petrol,Toyota,33000,Raize,6100000,Automatic,2020
+Hatchback,Karachi,Maroon,660.0,Petrol,Daihatsu,9000,Mira,3890000,Automatic,2022
+Crossover,Faisalabad,White,1498.0,Petrol,Jetour,210,Dashing,9250000,Automatic,2025
+Sedan,Lahore,White,1500.0,Petrol,Toyota,78000,Yaris Sedan,4575000,Automatic,2021
+Sedan,Lahore,Silver,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Sedan,Islamabad,White,1300.0,Petrol,Toyota,40000,Yaris Sedan,4450000,Automatic,2022
+Sedan,Lahore,Black,5500.0,Petrol,Mercedes Benz,95000,S Class,11000000,Automatic,2006
+Sedan,Islamabad,Black,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Unknown,Hyderabad,Silver,1300.0,Petrol,Honda,150000,City,1780000,Manual,2007
+Sedan,Islamabad,Brown,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Crossover,Karachi,Silver,2000.0,Petrol,KIA,170000,Sportage,5800000,Automatic,2020
+Mini Van,Lahore,Silver,1000.0,Petrol,Changan,25000,Karvaan,2200000,Manual,2022
+Hatchback,Pattoki,White,1000.0,Petrol,Suzuki,79621,Cultus,971000,Manual,2009
+Hatchback,Karachi,White,796.0,Petrol,Suzuki,120000,Mehran,1400000,Manual,2019
+Sedan,Lahore,Black,1300.0,Petrol,Honda,138000,City,1900000,Automatic,2003
+Mini Van,Karachi,Black,1200.0,Petrol,Changan,19,Karvaan,3196235,Manual,2025
+Hatchback,Faisalabad,Silver,1000.0,Petrol,Hyundai,120000,Santro,975000,Manual,2004
+SUV,Lahore,White,2800.0,Diesel,Toyota,77000,Fortuner,15700000,Automatic,2022
+Hatchback,Hyderabad,White,1000.0,Petrol,Suzuki,595000,Cultus,750000,Manual,2004
+SUV,Islamabad,White,4000.0,Petrol,Toyota,83356,Prado,11700000,Automatic,2006
+Hatchback,Peshawar,Silver,1500.0,Hybrid,Toyota,39802,Aqua,6300000,Automatic,2020
+Hatchback,Karachi,Beige,800.0,Petrol,Suzuki,1,Mehran,610000,Manual,2011
+Hatchback,Islamabad,White,796.0,Petrol,Suzuki,1,Mehran,1350000,Manual,2015
+Crossover,Lahore,Blue,2000.0,Petrol,KIA,51000,Sportage,7050000,Automatic,2021
+SUV,Lahore,White,2700.0,Petrol,Toyota,32000,Prado,27000000,Automatic,2020
+Sedan,Lahore,Black,1400.0,Petrol,Audi,121000,A3,6200000,Automatic,2014
+Hatchback,Islamabad,Grey,1300.0,Petrol,Suzuki,13000,Swift,3500000,Manual,2021
+Sedan,Karachi,White,1497.0,Hybrid,Toyota,97505,Prius,2995000,Automatic,2011
+Mini Van,Lahore,Orange Metallic,1000.0,Petrol,Suzuki,104200,Wagon R,2295000,Manual,2020
+Hatchback,Karachi,Silver,660.0,Petrol,Daihatsu,9000,Mira,3890000,Automatic,2022
+Hatchback,Karachi,White,1000.0,Petrol,Suzuki,365000,Alto,780000,Manual,2007
+Hatchback,Rawalpindi,White,1000.0,Petrol,Suzuki,57670,Alto,1500000,Manual,2011
+Sedan,Islamabad,White,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Sedan,Islamabad,grey ,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Gambat,Silver,1000.0,Petrol,Suzuki,120000,Cultus,650000,Manual,2000
+Sedan,Islamabad,Gold,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Hatchback,Mian Wali,White,660.0,Petrol,Suzuki,262506,Alto,900000,Automatic,2006
+Sedan,Pak pattan sharif,Silver,1300.0,Petrol,Honda,365000,City,1200000,Manual,2001
+Sedan,Islamabad,Silver,1300.0,Petrol,Suzuki,140000,Liana,1250000,Manual,2007
+Sedan,Rawalpindi,Green,2000.0,Petrol,Toyota,220000,Corona,1880000,Automatic,1997
+Unknown,Lahore,Blue,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+SUV,Rawalpindi,White,3000.0,Diesel,Toyota,200000,Surf,4000000,Automatic,1997
+Sedan,Hyderabad,White,1800.0,Petrol,Honda,82000,Civic,2650000,Automatic,2008
+Sedan,Karachi,Black,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Islamabad,Burgundy,1800.0,Petrol,Mercedes Benz,222850,C Class,4550000,Automatic,2007
+Hatchback,Gujranwala,Orange,1500.0,Hybrid,Toyota,150000,Aqua,4950000,Automatic,2017
+Sedan,Islamabad,Silver,2400.0,Petrol,Honda,180000,Accord,3000000,Automatic,2002
+Crossover,Islamabad,Grey,2000.0,Petrol,KIA,30000,Sportage,7495000,Automatic,2022
+Crossover,Karachi,White,2000.0,Petrol,KIA,57000,Sportage,6600000,Automatic,2021
+Sedan,Karachi,Silver,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Hatchback,Faisalabad,Grey,1200.0,Hybrid,Nissan,48000,Note,6200000,Automatic,2022
+Crossover,Islamabad,Black,1000.0,Petrol,Toyota,80000,Raize,5800000,Automatic,2020
+Unknown,Islamabad,White,660.0,Petrol,Daihatsu,2915,Tanto,3600000,Automatic,2023
+Hatchback,Pattoki,Blue,800.0,Petrol,Suzuki,199999,Mehran,725000,Manual,2005
+Sedan,Lahore,Black,1600.0,Petrol,Toyota,189000,Corolla,4175000,Automatic,2015
+Hatchback,Islamabad,White,660.0,Petrol,Honda,28267,N Box,3500000,Automatic,2022
+Unknown,Wah cantt,Silver,1800.0,Petrol,Honda,148500,Civic,2195000,Automatic,2008
+Unknown,Sialkot,Blue,660.0,Petrol,Daihatsu,70000,Mira,2400000,Automatic,2014
+SUV,Lahore,Black diamond metalic,2000.0,Petrol,Hyundai,47000,Tucson,7700000,Automatic,2023
+Crossover,Faisalabad,White,1500.0,Petrol,MG,68879,HS,7050000,Automatic,2023
+Sedan,Islamabad,Blue,1300.0,Petrol,Suzuki,250000,Baleno,1325000,Manual,2004
+Hatchback,Multan,White,1000.0,Petrol,Suzuki,290000,Cultus,960000,Manual,2008
+Hatchback,Rawalpindi,Silver,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Hatchback,Lahore,Blue,660.0,Hybrid,Mitsubishi,20000,EK X,3900000,Automatic,2022
+Hatchback,Multan,White,660.0,Petrol,Suzuki,33500,Alto,2480000,Manual,2022
+Hatchback,Multan,White,1000.0,Petrol,Suzuki,76205,Wagon R,2820000,Manual,2020
+Sedan,Karachi,Silver,1300.0,Petrol,Toyota,75000,Yaris Sedan,3930000,Automatic,2020
+Sedan,Islamabad,Brown,1300.0,Petrol,Toyota,110000,Corolla,3500000,Manual,2016
+Sedan,Islamabad,Beige,1500.0,Petrol,Honda,156000,Civic,1690000,Manual,2005
+Hatchback,Karachi,White,1000.0,Petrol,Suzuki,66000,Cultus,1170000,Manual,2010
+Hatchback,Multan,White,660.0,Petrol,Honda,33000,N Wgn,3650000,Automatic,2022
+Unknown,Karachi,Red,1300.0,Petrol,Peugeot,100000,205,450000,Manual,1993
+Crossover,Islamabad,White,1000.0,Petrol,Toyota,63952,Raize,5550000,Automatic,2020
+Sedan,Karachi,Blue,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Karachi,White,1600.0,Petrol,Toyota,123141,Corolla,3300000,Automatic,2014
+Sedan,Karachi,Black,1800.0,Petrol,Honda,94000,Civic,4725000,Automatic,2018
+Sedan,Gujranwala,White,1300.0,Petrol,Suzuki,90000,Baleno,1400000,Manual,2004
+Hatchback,Lahore,Blue,660.0,Petrol,Daihatsu,82000,Mira,2150000,Automatic,2012
+Unknown,Islamabad,White,1500.0,Petrol,BMW,91000,X1,7600000,Automatic,2017
+Hatchback,Islamabad,Silver,1000.0,Petrol,Toyota,25000,Yaris Hatchback,4500000,Automatic,2022
+Hatchback,Karachi,White,660.0,Petrol,Suzuki,67000,Alto,2350000,Manual,2021
+Sedan,Rawalpindi,Silver,1300.0,Petrol,Suzuki,200000,Liana,1300000,Manual,2007
+Hatchback,Rawalpindi,Blue,800.0,Petrol,Suzuki,312100,Mehran,1150000,Manual,2011
+Hatchback,Islamabad,White,660.0,Petrol,Suzuki,37000,Alto,2770000,Manual,2024
+Sedan,Mirpur khas,Black,1600.0,Petrol,Toyota,140000,Corolla,3500000,Automatic,2012
+Sedan,Lahore,Grey,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Peshawar,White,660.0,Petrol,Suzuki,148000,Alto,2450000,Automatic,2025
+Unknown,Sheikhupura,White,796.0,Petrol,Suzuki,145000,Mehran,1100000,Manual,2015
+Sedan,Pak pattan sharif,Silver,1300.0,Petrol,Honda,365000,City,1200000,Manual,2001
+Station Wagon,Topi,White,1500.0,Hybrid,Toyota,99400,Corolla Fielder,5900000,Automatic,2018
+Sedan,Lahore,Black,1800.0,Petrol,Honda,90000,Civic,2750000,Automatic,2010
+Hatchback,Islamabad,White,796.0,Petrol,Suzuki,96000,Mehran,1445000,Manual,2018
+Sedan,Rajana,Grey,1300.0,Petrol,Suzuki,100000,Margalla,730000,Manual,1995
